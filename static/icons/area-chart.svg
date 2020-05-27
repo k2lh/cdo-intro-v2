@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="80px" viewBox="0 0 81 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>area-chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="area-chart" fill="#5596E6" fill-rule="nonzero">
+            <g id="Group">
+                <polygon id="Triangle" points="5.40823793 52.9957806 17 57.7300277 0 80"></polygon>
+                <polygon id="Triangle-3" points="39 22.3909986 54.9484535 43.6148412 69 80 9 80 24.1136723 43.5120813"></polygon>
+                <polygon id="Triangle-4" points="59.6796549 36.2882196 70.9718571 34.9929677 80 80 40 80 46.0673115 35.8131785"></polygon>
+                <polygon id="Triangle-5" points="66.4713047 10.7235013 80.1069392 0.292044689 80 80 42.947325 36.0454469 53.8899121 10.406256"></polygon>
+                <polygon id="Triangle-2" points="15.6517181 34.4303797 61 80 0 80"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

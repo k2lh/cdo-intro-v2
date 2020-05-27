@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="81px" viewBox="0 0 80 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>pie</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pie" transform="translate(0.000000, 1.000000)">
+            <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" cx="40" cy="39.8135131" rx="39.76" ry="39.7403913"></ellipse>
+            <path d="M39.1915789,42.2291632 L39.1915789,0.0394542177" id="Shape" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M39.1915789,42.2291632 L71.2263158,74.2502055" id="Shape" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M39.1915789,42.2291632 L66.1915789,6.38369225" id="Shape" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

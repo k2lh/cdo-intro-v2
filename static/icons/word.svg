@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="79px" viewBox="0 0 77 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>range-area</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="range-area" transform="translate(0.000000, -1.000000)" fill="#5596E6">
+            <g id="Group">
+                <text id="happy" font-family="XXXPlexSans-Bold, Plex Sans" font-size="22" font-weight="bold">
+                    <tspan x="3" y="47">happy</tspan>
+                </text>
+                <text id="talk" transform="translate(28.000000, 17.000000) rotate(-90.000000) translate(-28.000000, -17.000000) " font-family="XXXPlexSans-Bold, Plex Sans" font-size="18" font-weight="bold">
+                    <tspan x="11" y="23.5">talk</tspan>
+                </text>
+                <text id="server" transform="translate(70.500000, 57.496575) rotate(-90.000000) translate(-70.500000, -57.496575) " font-family="XXXPlexSans-Bold, Plex Sans" font-size="15" font-weight="bold">
+                    <tspan x="48.0034247" y="62.9965753">server</tspan>
+                </text>
+                <text id="quickly" font-family="XXXPlexSans-Medium, Plex Sans" font-size="12" font-weight="400">
+                    <tspan x="37.9487179" y="32.2534247">quickly</tspan>
+                </text>
+                <text id="issue" font-family="XXXPlexSans-Medium, Plex Sans" font-size="12" font-weight="400">
+                    <tspan x="0" y="56.3630137">issue</tspan>
+                </text>
+                <text id="help" transform="translate(33.333333, 60.917808) rotate(-90.000000) translate(-33.333333, -60.917808) " font-family="XXXPlexSans-Medium, Plex Sans" font-size="10" font-weight="400">
+                    <tspan x="22.5641026" y="64.4178082">help</tspan>
+                </text>
+                <text id="today" font-family="XXXPlexSans-Medium, Plex Sans" font-size="10" font-weight="400">
+                    <tspan x="41" y="58.8424658">today</tspan>
+                </text>
+                <text id="glad" transform="translate(41.500000, 14.256410) rotate(-90.000000) translate(-41.500000, -14.256410) " font-family="XXXPlexSans-Medium, Plex Sans" font-size="10" font-weight="400">
+                    <tspan x="31.2435897" y="17.7564103">glad</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

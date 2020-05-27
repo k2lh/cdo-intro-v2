@@ -1,0 +1,71 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+.form-group {
+  display: flex;
+  margin-bottom: 2.5em;
+  &__form {
+    flex: 1;
+  }
+  &__header {
+    display: flex;
+    flex-direction: column;
+    .header__item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+  &__title {
+    color: $color-menu;
+    font-size: 1.5rem;
+    .body__item {
+      display: flex;
+    }
+  }
+  .paste-json {
+    color: $color-menu;
+    font-size: 0.875rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+  }
+  &__body {
+    display: flex;
+    flex-wrap: nowarp;
+    &__section {
+      width: 100%;
+    }
+  }
+}
+#location_body {
+  width: 100%;
+}
+.body__item,
+.item {
+  border: 1px solid transparent;
+  float: left;
+  margin: 0 1% 1em 0;
+  padding: 0;
+  width: 23%;
+  label {
+    color: $color-menu;
+    font-size: 0.875rem;
+  }
+  input,
+  select {
+    background: #F8FAFD; // temporary
+    border: 1px solid #D3D3D3; // temporary
+    font-size: 1rem;
+    padding: 0.2em 0.5em;
+    width: 100%;
+  }
+  select {
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+  }
+}
+.json-output {
+  color: #000;
+}

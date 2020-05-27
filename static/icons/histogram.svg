@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>bar-chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bar-chart" fill="#5596E6" fill-rule="nonzero">
+            <rect id="Rectangle-path" x="0" y="69" width="8.57142857" height="10.0675857"></rect>
+            <rect id="Rectangle-path" x="10.1046428" y="57" width="8.57142857" height="22.0675857"></rect>
+            <rect id="Rectangle-path" x="20.2092857" y="20" width="8.57142857" height="59.0675858"></rect>
+            <rect id="Rectangle-path" x="70.7324998" y="67" width="8.57142857" height="12.0717255"></rect>
+            <rect id="Rectangle-path" x="50.5232141" y="17" width="8.57142857" height="62.0675879"></rect>
+            <rect id="Rectangle-path" x="60.627857" y="48" width="8.57142857" height="31.0675879"></rect>
+            <rect id="Rectangle-path" x="30.3139285" y="10" width="8.57142857" height="69.0717231"></rect>
+            <rect id="Rectangle-path" x="40.4185713" y="0" width="8.57142857" height="79.0717231"></rect>
+        </g>
+    </g>
+</svg>

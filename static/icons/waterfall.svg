@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>floating-bar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="floating-bar">
+            <path d="M0.263291139,40.1054858 L79.5139241,40.1054858" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.4953125"></path>
+            <path d="M0.263291139,59.3554858 L79.5139241,59.3554858" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.4953125"></path>
+            <path d="M0.263291139,78.6054858 L79.5139241,78.6054858" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.4953125"></path>
+            <path d="M0.263291139,20.8554858 L79.5139241,20.8554858" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.4953125"></path>
+            <path d="M0.263291139,1.6054858 L79.5139241,1.6054858" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.4953125"></path>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="2" y="39" width="10" height="24.1781258"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="67.5721519" y="39" width="10" height="40.5"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="51.1791139" y="0.5" width="10" height="40.5"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="34.7860759" y="0.5" width="10" height="21.5"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="18.393038" y="20" width="10" height="21"></rect>
+        </g>
+    </g>
+</svg>

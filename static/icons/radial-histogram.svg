@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>radial-bar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="radial-bar">
+            <g id="Layer_4" opacity="0.5" stroke="#5596E6">
+                <circle id="Oval" cx="40" cy="40" r="39.1812766"></circle>
+                <circle id="Oval" cx="40" cy="40" r="27.2689362"></circle>
+            </g>
+            <path d="M39.9999995,67.3661057 L39.9999995,0.5" id="Shape" stroke="#5596E6" stroke-width="5.5"></path>
+            <path d="M33.6599775,67.9031879 L33.6599775,12.9031879" id="Shape" stroke="#5596E6" stroke-width="5.5" transform="translate(33.659977, 40.743210) rotate(90.000000) translate(-33.659977, -40.743210) "></path>
+            <path d="M16.5,63.5 L54.0097233,26.4902762" id="Shape" stroke="#5596E6" stroke-width="5.5"></path>
+            <path d="M35.1464461,66.6903733 L35.1464461,6.90521389" id="Shape" stroke="#5596E6" stroke-width="5.5" transform="translate(35.646446, 36.797794) scale(-1, 1) rotate(45.000000) translate(-35.646446, -36.797794) "></path>
+            <path d="M13.7557801,58.7442194 L55.1898096,17.3101899" id="Shape" stroke="#5596E6" stroke-width="5.5" transform="translate(34.472795, 38.027205) rotate(69.000000) translate(-34.472795, -38.027205) "></path>
+            <path d="M34.4683476,69.6602698 L35.0022964,15.8661536" id="Shape" stroke="#5596E6" stroke-width="5.5" transform="translate(34.502296, 42.866154) scale(-1, 1) rotate(-69.000000) translate(-34.502296, -42.866154) "></path>
+            <path d="M28.5,67.5 L46.2083334,25.8740819" id="Shape" stroke="#5596E6" stroke-width="5.5"></path>
+            <path d="M49.1821903,63.2267197 L25.9656221,5.76369693" id="Shape" stroke="#5596E6" stroke-width="5.5"></path>
+            <g id="Layer_3" transform="translate(27.234043, 27.234043)" fill="#FFFFFF" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="2">
+                <circle id="Oval" cx="12.7659574" cy="12.7659574" r="12.0970213"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

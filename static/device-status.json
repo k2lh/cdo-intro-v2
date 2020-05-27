@@ -1,0 +1,13 @@
+[  {
+    "key": "Status by Device",
+    "area": true,
+    "values": [
+      { "label": "In scope for patching", "value": 745411, "color": "#95d13c"  },
+      { "label": "OS information not provided", "value": 252601, "color": "#12a3b4"  },
+      { "label": "MSS Information Pending", "value": 837, "color": "#ffb000"  },
+      { "label": "Insufficient information", "value": 63284, "color": "#fc835c"  },
+      { "label": "Vendor hasn't released patches", "value": 4199, "color": "#dc267f"  },
+      { "label": "Vendor says no patch forthcoming", "value": 89957, "color": "#71cddd" }
+    ]
+  }
+]

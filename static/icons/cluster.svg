@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>scatterplot</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="scatterplot">
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="36" cy="61" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="7" cy="43" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="27" cy="59" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="16" cy="45" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="31" cy="68" r="3"></circle>
+            <path d="M75,51.9970501 C75,53.6548673 73.6545365,55 71.9992624,55 C70.3410376,55 69,53.6548673 69,51.9970501 C69,50.3436578 70.3410376,49 71.9992624,49 C73.6545365,49 75,50.3436578 75,51.9970501 Z" id="Shape" fill="#5596E6" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="55" cy="50" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="60" cy="42" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="65" cy="62" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="57" cy="59" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="13" cy="37" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="10" cy="51" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="64" cy="12" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="63" cy="54" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="66" cy="46" r="3"></circle>
+            <path d="M36,6.99705015 C36,8.65486726 34.6545365,10 32.9992624,10 C31.3410376,10 30,8.65486726 30,6.99705015 C30,5.34365782 31.3410376,4 32.9992624,4 C34.6545365,4 36,5.34365782 36,6.99705015 Z" id="Shape" fill="#5596E6" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="23" cy="11" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="26" cy="3" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="32" cy="15" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="38" cy="21" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="25" cy="20" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="39" cy="13" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="32" cy="25" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="71" cy="13" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="68.9176812" cy="5.37661538" r="3"></circle>
+            <polyline id="Shape" stroke="#5596E6" stroke-linecap="round" points="0.553043478 0.747076923 0.553043478 78.8418462 79.7773913 78.8418462"></polyline>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>opposite</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="opposite">
+            <g id="Group" opacity="0.495145089" stroke="#5596E6" stroke-linecap="square">
+                <path d="M0,3 L79.9999995,3.00899827" id="Line"></path>
+                <path d="M0,28 L79.9999995,28.0089983" id="Line"></path>
+                <path d="M0,53 L79.9999995,53.0089983" id="Line"></path>
+                <path d="M4,79.9999995 L4.00899829,0" id="Line"></path>
+                <path d="M29,79.9999995 L29.0089983,0" id="Line"></path>
+                <path d="M54,79.9999995 L54.0089983,0" id="Line"></path>
+            </g>
+            <circle id="Oval" fill="#5596E6" cx="17" cy="15" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" opacity="0.499888393" cx="42" cy="40" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" cx="17" cy="66" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" cx="67" cy="40" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" opacity="0.499888393" cx="42" cy="66" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" opacity="0.499888393" cx="67" cy="15" r="5"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>range-area</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="range-area" transform="translate(1.000000, 0.000000)" stroke="#5596E6">
+            <polyline id="Rectangle" points="80 80 0 80 0 0"></polyline>
+            <path d="M77.7309205,23.7246263 C69.3078738,19.5368991 56.9291304,18.1176389 38.6318905,33.6621263 C24.8462394,45.3737768 18.1066766,23.1661094 2.22305271,23.9779701 L2.16286389,51.8874902 C8.02643744,51.8455568 12.4039219,70.7677103 20.166011,72.6856806 C28.1884343,74.667978 33.5121801,70.4566768 42.2716795,53.7041392 C59.5452953,20.6683591 61.1626487,49.5852983 77.7718332,54.729347 L77.7309205,23.7246263 Z" id="Line-2" stroke-width="2" fill="#5596E6" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

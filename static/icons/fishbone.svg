@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>donut</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="donut" stroke="#5596E6" stroke-width="2">
+            <g id="Group" transform="translate(1.000000, 35.000000)">
+                <circle id="Oval" cx="73" cy="5" r="5"></circle>
+                <polygon id="Triangle" transform="translate(4.000000, 5.500000) rotate(90.000000) translate(-4.000000, -5.500000) " points="4 2 9 9 -1 9"></polygon>
+                <path d="M8,5.5 L67,5.5" id="Line" stroke-linecap="square"></path>
+            </g>
+            <g id="Group-2" transform="translate(48.000000, 0.000000)">
+                <path d="M8,13 L16,39" id="Line-2" stroke-linecap="square"></path>
+                <rect id="Rectangle-2" x="1" y="1" width="14" height="11"></rect>
+            </g>
+            <g id="Group-2" transform="translate(25.500000, 5.000000)">
+                <path d="M8.5,13 L15,34" id="Line-2" stroke-linecap="square"></path>
+                <rect id="Rectangle-2" x="1" y="1" width="14" height="11"></rect>
+            </g>
+            <g id="Group-2" transform="translate(4.000000, 10.000000)">
+                <path d="M8,13 L13,29" id="Line-2" stroke-linecap="square"></path>
+                <rect id="Rectangle-2" x="1" y="1" width="14" height="11"></rect>
+            </g>
+            <g id="Group-2" transform="translate(56.500000, 60.000000) scale(1, -1) translate(-56.500000, -60.000000) translate(48.000000, 40.000000)">
+                <path d="M8,13 L16,39" id="Line-2" stroke-linecap="square"></path>
+                <rect id="Rectangle-2" x="1" y="1" width="14" height="11"></rect>
+            </g>
+            <g id="Group-2" transform="translate(33.500000, 58.500000) scale(1, -1) translate(-33.500000, -58.500000) translate(25.500000, 41.000000)">
+                <path d="M8.5,13 L15,34" id="Line-2" stroke-linecap="square"></path>
+                <rect id="Rectangle-2" x="1" y="1" width="14" height="11"></rect>
+            </g>
+            <g id="Group-2" transform="translate(12.000000, 56.000000) scale(1, -1) translate(-12.000000, -56.000000) translate(4.000000, 41.000000)">
+                <path d="M8,13 L13,29" id="Line-2" stroke-linecap="square"></path>
+                <rect id="Rectangle-2" x="1" y="1" width="14" height="11"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

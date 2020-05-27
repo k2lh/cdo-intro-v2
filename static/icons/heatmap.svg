@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>heatmap</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="heatmap" transform="translate(1.000000, 1.000000)" fill="#5596E6" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="2">
+            <rect id="Rectangle-path" x="0.758947368" y="0.37125" width="26.16" height="19.81375"></rect>
+            <rect id="Rectangle-path" x="0.758947368" y="20.185" width="26.16" height="19.8175"></rect>
+            <rect id="Rectangle-path" x="26.9178947" y="0.37125" width="26.1684211" height="19.81375"></rect>
+            <rect id="Rectangle-path" opacity="0.8" x="26.9178947" y="20.185" width="26.1684211" height="19.8175"></rect>
+            <rect id="Rectangle-path" opacity="0.5" x="53.0873684" y="0.37" width="26.1557895" height="19.815"></rect>
+            <rect id="Rectangle-path" opacity="0.5" x="53.0873684" y="20.185" width="26.1557895" height="19.8175"></rect>
+            <rect id="Rectangle-path" opacity="0.25" x="53.0873684" y="40" width="26.1557895" height="19.815"></rect>
+            <rect id="Rectangle-path" opacity="0.25" x="53.0873684" y="59.815" width="26.1557895" height="19.81625"></rect>
+            <rect id="Rectangle-path" opacity="0.5" x="0.758947368" y="40" width="26.16" height="19.815"></rect>
+            <rect id="Rectangle-path" opacity="0.25" x="0.758947368" y="59.815" width="26.16" height="19.81625"></rect>
+            <rect id="Rectangle-path" opacity="0.5" x="26.9178947" y="40" width="26.1684211" height="19.815"></rect>
+            <rect id="Rectangle-path" opacity="0.25" x="26.9178947" y="59.815" width="26.1684211" height="19.81625"></rect>
+        </g>
+    </g>
+</svg>

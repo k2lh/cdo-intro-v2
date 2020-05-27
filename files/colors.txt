@@ -1,0 +1,27 @@
+#5392ff	blue
+#648fff 	ultra
+#009bef	ceru
+#12a3b4	aqua
+#00a78f	teal
+#00aa5e	green
+#73a22c	lime
+#fed500	yellow
+#ffb000	gold
+#fe8500	orange
+#fc835c	peach
+#e62325	red
+#f87eac	pink
+#dc267f	magenta
+#cb71d7	purple
+#b07ce8	violet
+#9b82f3	indigo
+	
+Not available	#464646	
+Priority 1	#e62325	
+Priority 2	#fe8500	
+Priority 3	#fed500	
+Group 1	#047cc0	
+Group 2	#008673	
+Group 3	#dc267f	
+Group 4	#9753e1	
+Other	#c0bfc0

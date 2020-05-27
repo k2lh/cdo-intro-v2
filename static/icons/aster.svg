@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="84px" viewBox="0 0 82 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>aster</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="aster" transform="translate(-8.000000, 1.000000)">
+            <path d="M73.1776151,16.2689166 C70.4016869,13.5523293 67.187964,11.2813082 63.6521349,9.57154161 C58.9193718,7.28299204 53.6095153,6 48,6 L48,42" id="Oval-2" fill="#5596E6" fill-rule="nonzero"></path>
+            <path d="M87.1791938,28.1478137 C84.0328453,25.0687246 80.3902828,22.4946581 76.3826322,20.55674 C71.0183285,17.9628061 64.999924,16.5086114 58.6418742,16.5086114 L58.6418742,57.3124564" id="Oval-2" fill="#5596E6" fill-rule="nonzero" transform="translate(72.910534, 36.910534) rotate(45.000000) translate(-72.910534, -36.910534) "></path>
+            <path d="M47.975128,12.4099073 C44.8907633,9.39147702 41.3199601,6.86812018 37.3912611,4.96837957 C32.1326354,2.42554671 26.2327949,1 20.0000001,1 L20.0000001,41" id="Oval-2" fill="#5596E6" fill-rule="nonzero" transform="translate(33.987564, 21.000000) scale(-1, 1) translate(-33.987564, -21.000000) "></path>
+            <path d="M42.7372967,32.4537167 C40.6493858,30.410439 38.2321881,28.7022933 35.5727188,27.4162945 C32.012977,25.6949648 28.0191751,24.729964 23.7999853,24.729964 L23.7999853,51.8073185" id="Oval-2" fill="#5596E6" fill-rule="nonzero" transform="translate(33.268641, 38.268641) scale(-1, 1) rotate(45.000000) translate(-33.268641, -38.268641) "></path>
+            <path d="M75.9751279,52.4099073 C72.8907632,49.391477 69.31996,46.8681202 65.391261,44.9683796 C60.1326353,42.4255467 54.2327948,41 48,41 L48,81" id="Oval-2" fill="#5596E6" fill-rule="nonzero" transform="translate(61.987564, 61.000000) scale(-1, 1) rotate(-180.000000) translate(-61.987564, -61.000000) "></path>
+            <path d="M77.5385284,37.5914925 C75.2233705,35.3258257 72.5430866,33.4317664 69.5941622,32.0058004 C65.6469803,30.0971222 61.2184955,29.0270913 56.5400916,29.0270913 L56.5400916,59.0515285" id="Oval-2" fill="#5596E6" fill-rule="nonzero" transform="translate(67.039310, 44.039310) scale(-1, 1) rotate(-135.000000) translate(-67.039310, -44.039310) "></path>
+            <path d="M49.478236,46.9836689 C46.7794169,44.3425424 43.6549641,42.1346052 40.2173525,40.4723321 C35.616055,38.2473534 30.4536946,37 24.9999991,37 L24.9999991,72" id="Oval-2" fill="#5596E6" fill-rule="nonzero" transform="translate(37.239118, 54.500000) rotate(180.000000) translate(-37.239118, -54.500000) "></path>
+            <path d="M38.2397638,36.5809257 C35.1992761,33.6054344 31.6792698,31.1179739 27.806459,29.2452583 C22.6226405,26.7385988 16.8067288,25.3333313 10.6625994,25.3333313 L10.6625994,64.7643067" id="Oval-2" fill="#5596E6" fill-rule="nonzero" transform="translate(24.451182, 45.048819) rotate(-135.000000) translate(-24.451182, -45.048819) "></path>
+            <g id="Group" stroke-linecap="round" transform="translate(19.000000, 0.000000)" stroke="#FFFFFF">
+                <path d="M29.1915789,82 L29.1915789,-1.77635684e-15" id="Shape"></path>
+                <path d="M29.191579,1 L29.191579,0" id="Shape" transform="translate(29.691579, 0.500000) rotate(90.000000) translate(-29.691579, -0.500000) "></path>
+                <path d="M0.3466475,69.6378246 L58.3294036,11.6550686" id="Shape"></path>
+                <path d="M0.3466475,11.6550686 L58.3294036,69.6378246" id="Shape"></path>
+            </g>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="48" cy="40" r="10"></circle>
+            <path d="M48.5,1.5 L48.5,80.5" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M88,41 L9,41" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M75.9390056,12.5860779 L21.0609944,69.4139221" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M75.9390056,12.5860779 L21.0609944,69.4139221" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" transform="translate(48.500000, 41.000000) scale(-1, 1) translate(-48.500000, -41.000000) "></path>
+        </g>
+    </g>
+</svg>

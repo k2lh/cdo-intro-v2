@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>flowchart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flowchart" transform="translate(1.000000, 1.000000)" stroke="#5596E6" stroke-width="2">
+            <path d="M39.2282353,15.7894737 L39.2282353,29.2463158" id="Shape"></path>
+            <path d="M39.2282353,42.1052632 L39.2282353,52.6315789" id="Shape"></path>
+            <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="26.0517647 34.4189474 39.2278846 23.1578947 52.4047059 34.4189474 39.2278846 45.68"></polygon>
+            <path d="M56,8.2 C56,12.1957895 53.1049412,15.4336842 49.5322353,15.4336842 L29.696,15.4336842 C26.1242353,15.4336842 23.2282353,12.1957895 23.2282353,8.2 L23.2282353,7.23368421 C23.2282353,3.23894737 26.1242353,0 29.696,0 L49.5331765,0 C53.1058824,0 56.0009412,3.23894737 56.0009412,7.23368421 L56.0009412,8.2 L56,8.2 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="47.0588235" y="63.1578947" width="32.3388235" height="15.9157895"></rect>
+            <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="0" y="63.1578947" width="32.3388235" height="15.9157895"></rect>
+            <polyline id="Line" stroke-linecap="square" points="16.0129272 62.9647326 16 53.1578947 63.8216046 53.1578947 64 62.6629628"></polyline>
+        </g>
+    </g>
+</svg>

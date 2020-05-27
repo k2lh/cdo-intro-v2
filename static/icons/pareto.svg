@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="82px" viewBox="0 0 81 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>pareto</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pareto" transform="translate(1.000000, 0.000000)">
+            <g id="Group" transform="translate(1.000000, 0.000000)">
+                <polyline id="Combined-Shape" stroke="#5596E6" stroke-width="2" points="0 43 8.75841418 27.668098 17.3490334 36.1488965 23.1255038 14.7266384 33.1639167 18.6159327 39.3645454 3.57384274 49.061935 24.7984079 58.4363988 7.70139699 65.7245693 14.4440975 75 2"></polyline>
+                <polygon id="Triangle" fill="#5596E6" fill-rule="nonzero" transform="translate(73.236840, 3.700744) rotate(-86.000000) translate(-73.236840, -3.700744) " points="73.2368396 0.700744171 76.7368396 6.70074417 69.7368396 6.70074417"></polygon>
+            </g>
+            <polyline id="Rectangle" stroke="#5596E6" points="80 81 0 81 0 1"></polyline>
+            <g id="Group-2" opacity="0.500223214" transform="translate(1.000000, 15.000000)" fill="#5596E6" fill-rule="nonzero">
+                <rect id="Rectangle-path" x="0" y="8" width="8" height="57"></rect>
+                <rect id="Rectangle-path" x="9.85714286" y="43" width="8" height="22"></rect>
+                <rect id="Rectangle-path" x="19.7142857" y="24" width="8" height="41"></rect>
+                <rect id="Rectangle-path" x="69" y="26" width="8" height="39"></rect>
+                <rect id="Rectangle-path" x="49.2857143" y="14" width="8" height="51"></rect>
+                <rect id="Rectangle-path" x="59.1428571" y="6" width="8" height="59"></rect>
+                <rect id="Rectangle-path" x="29.5714286" y="33" width="8" height="32"></rect>
+                <rect id="Rectangle-path" x="39.4285714" y="0" width="8" height="65"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

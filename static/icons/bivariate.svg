@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="83px" viewBox="0 0 82 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>multi-axis</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="multi-axis" transform="translate(1.000000, 2.000000)">
+            <polyline id="Rectangle" stroke="#5596E6" points="80 80 0 80 0 0"></polyline>
+            <polyline id="Path" stroke="#5596E6" stroke-width="2" fill="#5596E6" points="0.259965423 35.1439604 9.67419102 44.5155679 13.4021806 13.9676898 24.1075157 45.5537007 30.3483331 4.49882568 38.391677 49.7843652 43.3020453 14.7320834 49.0341776 30.4494145 54.0439881 8.62349132 70.3798278 44.0216352 79.4427274 34.9641995"></polyline>
+            <polyline id="Path" stroke="#5596E6" stroke-width="2" fill="#5596E6" opacity="0.500948661" transform="translate(40.106509, 53.066936) scale(1, -1) translate(-40.106509, -53.066936) " points="0.667569154 71.3686717 9.99842608 50.3032653 16.028885 59.3799162 25.061187 52.7229345 32.1871493 66.183672 37.8906413 35.4574716 44.4087047 62.3404205 49.904252 46.1338727 53.4877675 66.4091287 60.6000701 34.7652009 62.4025966 60.0655907 75.9988583 51.5616437 79.5454479 71.3511874"></polyline>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(8.048804, 36.208439) rotate(151.000000) translate(-8.048804, -36.208439) " points="9.90100666 30.9512868 13.1939959 41.4655912 2.90361231 40.7562662"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(24.098293, 34.727579) rotate(151.000000) translate(-24.098293, -34.727579) " points="28.1486893 28.0337003 25.3393609 41.4214568 20.0478968 39.4650867"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(38.641511, 36.052562) rotate(151.000000) translate(-38.641511, -36.052562) " points="43.418263 28.1701652 37.6651952 43.9349592 33.8647594 41.798679"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(72.291786, 33.226688) rotate(151.000000) translate(-72.291786, -33.226688) " points="78.3585019 26.2336619 77.1210313 40.2197141 66.2250701 29.1835352"></polygon>
+        </g>
+    </g>
+</svg>

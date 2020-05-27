@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>donut</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="donut" transform="translate(-11.000000, -9.000000)">
+            <g id="Group" opacity="0.501283482" transform="translate(11.000000, 9.000000)">
+                <path d="M0,41.0005001 C0.0090018,18.9042523 17.904581,1.0080019 40,1 C62.0964193,1.0080019 79.989998,18.9042523 80,41.0005001 C79.989998,63.0977482 62.0964193,80.9929983 40,81 C17.904581,80.9929983 0.0090018,63.096748 0,41.0005001 Z M10,40.9999999 C10.0305662,57.5664798 23.4353906,70.9709627 40.0007641,71 C56.5661378,70.9709627 69.9724904,57.5664798 70,40.9999999 C69.9724904,24.4350484 56.5661378,11.0290372 40.0007641,11 C23.4353906,11.027509 10.0305662,24.4335201 10,40.9999999 Z" id="Shape" fill="#5596E6" fill-rule="nonzero"></path>
+                <path d="M40.4938272,0 L40.4938272,39.5061728" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M39.5061728,40.4938272 L64.1975309,8.88888889" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M40.5061728,41.4938272 L80.0123457,48.4074074" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M41.4938272,40.5061728 L24.7037037,78.037037" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+            </g>
+            <g id="Group" transform="translate(50.675579, 50.204207) rotate(62.000000) translate(-50.675579, -50.204207) translate(13.675579, 13.204207)">
+                <path d="M10,37.0003376 C10.0060762,22.0853703 22.0855922,10.0054013 37,10 C51.915083,10.0054013 63.9932486,22.0853703 64,37.0003376 C63.9932486,51.91598 51.915083,63.9952739 37,64 C22.0855922,63.9952739 10.0060762,51.9153049 10,37.0003376 Z M16.75,37 C16.7706322,48.1823738 25.8188886,57.2303998 37.0005158,57.25 C48.182143,57.2303998 57.231431,48.1823738 57.25,37 C57.231431,25.8186577 48.182143,16.7696001 37.0005158,16.75 C25.8188886,16.7685685 16.7706322,25.8176261 16.75,37 Z" id="Shape" fill="#5596E6" fill-rule="nonzero" transform="translate(37.000000, 37.000000) rotate(-63.000000) translate(-37.000000, -37.000000) "></path>
+                <path d="M37,8 L37,35" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M14.639842,53.0577144 L31.4503345,42.742321" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M37,36 L65,41" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M35.5915853,37.6488428 L24.5915853,63.6488428" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

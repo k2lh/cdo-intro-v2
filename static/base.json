@@ -1,0 +1,84 @@
+[{
+  "updated": "",
+  "id": "",
+  "project": "",
+  "repo": "",
+  "accomplishments": [],
+  "activities": [],
+  "benefits": [],
+  "group": null,
+  "child": false,
+  "clientfocus": false,
+  "cocreation": true,
+  "dashboard": null,
+  "description": "",
+  "description_full": null,
+  "inactive": false,
+  "internal": true,
+  "leads": [],
+  "links": [],
+  "members": [],
+  "mvp1": null,
+  "mvp2": null,
+  "mvp3": null,
+  "owner": "",
+  "parent": null,
+  "problem": null,
+  "public": false,
+  "setup": [
+    {
+      "task": "folder",
+      "label": "box folder",
+      "selected": false,
+      "result": ""
+    },
+    {
+      "task": "repo",
+      "label": "github repo",
+      "selected": false,
+      "result": ""
+    },
+    {
+      "task": "comm",
+      "label": "community",
+      "selected": false,
+      "result": ""
+    },
+    {
+      "task": "vaca",
+      "label": "vacation planner",
+      "selected": false,
+      "result": ""
+    },
+    {
+      "task": "slack",
+      "label": "slack channel",
+      "selected": false,
+      "result": ""
+    },
+    {
+      "task": "egroup",
+      "label": "email group",
+      "selected": false,
+      "result": ""
+    },
+    {
+      "task": "bgroup",
+      "label": "group",
+      "selected": false,
+      "result": ""
+    },
+    {
+      "task": "epics",
+      "label": "milestone/MVP epics",
+      "selected": false,
+      "result": ""
+    }
+  ],
+  "sha": null,
+  "status": null,
+  "tags": [],
+  "upcoming": [],
+  "updates": []
+}
+]

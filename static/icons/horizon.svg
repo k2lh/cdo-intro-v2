@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>stacked-area</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stacked-area" fill="#5596E6">
+            <polyline id="Shape" fill-rule="nonzero" transform="translate(23.029531, 66.041054) scale(-1, 1) translate(-23.029531, -66.041054) " points="46.0590614 78.7829538 34.0712233 53 26.0798771 66.0002811 20.4017147 56.6830381 13.2509308 72.2822509 6.52097396 65.5661887 -5.68434189e-14 79.0821081"></polyline>
+            <polygon id="Shape" fill-rule="nonzero" points="79.8203063 52.6154044 70.1972772 32 66.7430341 52.4265465 62.3912544 38.795829 57.8986322 51.5659422 54.3582264 47.700714 51.7578342 52.9471442"></polygon>
+            <polygon id="Shape" fill-rule="nonzero" transform="translate(10.731707, 41.636627) scale(-1, 1) translate(-10.731707, -41.636627) " points="21.4634146 52.889684 14.7963049 32.3511691 12.0260159 37.7209567 8.36437319 30.25 4.90804463 44.7292486 2.95693824 40.0934119 -1.0658141e-14 53.0232531"></polygon>
+            <polygon id="Shape" points="56.5043429 26.0506614 46.9854063 9 40.52866 17.3917969 34.9425371 10.1654265 29.0085273 20.0723081 24.1213493 15.7596553 18.8024002 26.0431173"></polygon>
+            <polygon id="Triangle" opacity="0.50390625" points="9.26829268 0 12.5829705 9.29854365 14.8874268 6.87324818 18.5365854 26 0 26"></polygon>
+            <polygon id="Triangle" opacity="0.50390625" points="63.5131765 58 69.7008251 74.0074806 75.0514248 64.9787262 80 79.1677075 45.8536585 79.1677075 53.0439039 66.9796113 59.8943263 71.1459911"></polygon>
+            <path d="M67.0731707,18.78125 L72.195122,5 L80,26 L72.195122,26 L56.5853659,26 L64.3902439,15 L67.0731707,18.78125 Z" id="Combined-Shape" opacity="0.50390625"></path>
+            <path d="M34.8908858,44.0401003 L41.4634146,28 L51.7073171,53 L41.9512195,53 L21.4634146,53 L31.7073171,40 L34.8908858,44.0401003 Z" id="Combined-Shape" opacity="0.50390625" transform="translate(36.585366, 40.500000) scale(-1, 1) translate(-36.585366, -40.500000) "></path>
+        </g>
+    </g>
+</svg>

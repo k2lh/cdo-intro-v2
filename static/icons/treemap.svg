@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="62px" viewBox="0 0 68 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>treemap</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="treemap" fill="#5596E6" fill-rule="nonzero">
+            <g id="Group">
+                <rect id="Rectangle-path" x="0.224" y="0.482" width="19.455" height="18.552"></rect>
+                <rect id="Rectangle-path" x="49.582" y="0.482" width="18.194" height="22.263"></rect>
+                <rect id="Rectangle-path" x="49.582" y="24.785" width="18.194" height="4.268"></rect>
+                <rect id="Rectangle-path" x="49.582" y="45.748" width="11.709" height="15.77"></rect>
+                <rect id="Rectangle-path" x="49.582" y="30.907" width="4.504" height="12.8"></rect>
+                <rect id="Rectangle-path" x="56.066" y="30.907" width="4.865" height="12.8"></rect>
+                <rect id="Rectangle-path" x="63.271" y="30.907" width="4.144" height="12.8"></rect>
+                <rect id="Rectangle-path" x="63.271" y="54.745" width="4.144" height="6.585"></rect>
+                <rect id="Rectangle-path" x="63.271" y="46.026" width="4.144" height="6.585"></rect>
+                <rect id="Rectangle-path" x="21.841" y="0.482" width="25.579" height="28.569"></rect>
+                <rect id="Rectangle-path" x="21.841" y="30.905" width="14.411" height="17.623"></rect>
+                <rect id="Rectangle-path" x="38.054" y="30.905" width="9.367" height="17.623"></rect>
+                <rect id="Rectangle-path" x="38.054" y="57.062" width="9.367" height="4.267"></rect>
+                <rect id="Rectangle-path" x="38.054" y="50.755" width="9.367" height="4.638"></rect>
+                <rect id="Rectangle-path" x="21.841" y="50.478" width="6.846" height="10.76"></rect>
+                <rect id="Rectangle-path" x="30.667" y="50.478" width="5.585" height="10.76"></rect>
+                <rect id="Rectangle-path" x="0.224" y="42.778" width="8.646" height="18.552"></rect>
+                <rect id="Rectangle-path" x="0.224" y="21.306" width="19.455" height="8.533"></rect>
+                <rect id="Rectangle-path" x="0.224" y="32.019" width="8.646" height="8.534"></rect>
+                <rect id="Rectangle-path" x="11.393" y="32.112" width="8.646" height="8.533"></rect>
+                <rect id="Rectangle-path" x="11.393" y="56.321" width="8.646" height="5.009"></rect>
+                <rect id="Rectangle-path" x="11.393" y="42.918" width="8.646" height="11.13"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

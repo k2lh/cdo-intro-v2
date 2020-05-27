@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="78px" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>alluvial</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alluvial" transform="translate(-1.000000, -1.000000)">
+            <g id="Group">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g mask="url(#mask-2)" stroke="#5596E6" stroke-linecap="square">
+                    <g transform="translate(0.000000, -7.000000)">
+                        <path d="M8.00806759,15.8630077 C-7.85843762,56.7012195 24.0196313,79.4424969 39.8239391,81.6388302 C26.8979964,79.6172622 0.633013532,58.5886584 13.6098259,21 L8.00806759,15.8630077 Z" id="Line-2" stroke-width="2" fill="#5596E6" fill-rule="evenodd"></path>
+                        <path d="M16.1954539,23.5119954 C5.48576109,53.7154461 26.0594881,75.3306851 39.5916109,78.6605896 C39.2974344,76.1462124 39.6899341,67.4874299 39.5511716,65.9170344 C33.7528797,65.5530801 18.1277966,52.1679472 25.2146225,31.8159422 L16.1954539,23.5119954 Z" id="Line-2" stroke-width="2" fill="#5596E6" fill-rule="evenodd" opacity="0.500111607"></path>
+                        <path d="M31.0646531,-13.1186025 C26.2572976,12.8817053 35.4738793,35.2869994 44.0807395,46.4394162 C46.0024239,44.0206547 46.2520481,39.0762776 47.5744575,39.5128586 C40.5565024,30.1674631 28.0412399,13.1098951 32.5710767,-12.2569505 L31.0646531,-13.1186025 Z" id="Line-2" stroke-width="2" fill="#5596E6" fill-rule="evenodd" opacity="0.500111607" transform="translate(38.658668, 16.660407) rotate(104.000000) translate(-38.658668, -16.660407) "></path>
+                        <path d="M65.4426756,20.1761439 C47.69286,11.3513815 25.4168193,16.9715222 16.8872842,22.23538 L25.9667154,31.038079 C29.2429521,28.3507226 38.9580608,19.03393 61.8550692,23.5524347 L65.4426756,20.1761439 Z" id="Line-2" stroke-width="2" fill="#5596E6" fill-rule="evenodd"></path>
+                        <path d="M81.4376369,51.4922446 C67.2161273,37.8405975 45.9097377,39.0169574 30.5702475,56.9870509 L31.2181864,57.0683133 C37.4407915,51.3264253 52.9308337,36.4234868 77.5961637,53.7458344 L81.4376369,51.4922446 Z" id="Line-2" stroke-width="2" fill="#5596E6" fill-rule="evenodd" transform="translate(56.003942, 49.658787) rotate(123.000000) translate(-56.003942, -49.658787) "></path>
+                        <path d="M40.6168679,72.6010277 C63.8480957,68.6427272 74.5998138,42.987516 65.2420646,22.2663042 C65.1774255,22.1231714 69.9790212,16.9536813 70.1352282,16.9766762 C85.7281729,52.7889088 70.3742962,81.6778982 41,82 L40.6168679,72.6010277 Z" id="Line-2" stroke-width="2" fill="#5596E6" fill-rule="evenodd" opacity="0.501004464"></path>
+                        <path d="M40,45 L40,85" id="Line" stroke-width="1" fill="none"></path>
+                        <path d="M1.5,8.5 L38.9734078,43.965039" id="Line" stroke-width="1" fill="none"></path>
+                        <path d="M60.0251263,0.847456736 L60.9454365,51.9601551" id="Line" stroke-width="1" fill="none" transform="translate(60.445436, 25.960155) scale(-1, 1) rotate(-45.000000) translate(-60.445436, -25.960155) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

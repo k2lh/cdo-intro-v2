@@ -1,0 +1,214 @@
+.page-header-universal {
+
+  #masthead {
+    background-color: #fff;
+    top: 0;
+    width: 100%;
+    z-index: 900
+  }
+
+  .sitenav-menu-sticky #masthead {
+      z-index: 810
+  }
+
+  .sitenav-menu-sticky.masthead-sticky #masthead {
+      z-index: 830
+  }
+
+  #mast-options,.masthead-unav {
+      display: none!important
+  }
+
+  #universal-nav {
+    background: #fff;
+    border-bottom: 1px solid #e5e5e5;
+    height: 50px;
+    position: relative;
+    z-index: 2
+  }
+
+  #home {
+      float: left;
+      margin-left: 20px;
+      overflow: hidden;
+      position: relative
+  }
+
+  #home.animate a {
+      animation-name: fadein;
+      -webkit-animation-name: fadein;
+      animation-duration: 1.4s;
+      -webkit-animation-duration: 1.4s;
+      -webkit-animation-timing-function: ease-in;
+      animation-timing-function: ease-in
+  }
+
+  #home.animate a:before {
+      animation-name: glow;
+      -webkit-animation-name: glow;
+      animation-duration: 2.2s;
+      -webkit-animation-duration: 2.2s;
+      animation-delay: .4s;
+      -webkit-animation-delay: .4s
+  }
+
+  #home a {
+      box-sizing: border-box;
+      display: block;
+      height: 50px;
+      text-indent: -999px;
+      width: 60px
+  }
+
+  #home a:before {
+      color: #000;
+      font-size: 60px;
+      line-height: 65px;
+      text-indent: 0;
+      top: 10px
+  }
+
+  .msie #home a:before {
+      top: 12px
+  }
+
+  a::before, a::after {
+      text-decoration: none;
+  }
+
+  .masthead-categories>li>a::after, .masthead-categories>li>button::after, .masthead-iconsonly>li>a::after, .masthead-iconsonly>li>button::after, .masthead-categories .mh-mainitem>a::after, .sitenav-menu-name a::after, .sitenav-menu-list>ul>li>button::after, .sitenav-menu-list>ul>li>span::after, .sitenav-menu-list>ul>li>a::after {
+      background: #3b6caa;
+      bottom: 0;
+      content: '';
+      display: block;
+      height: 4px;
+      left: 0;
+      position: absolute;
+      -ms-transform: translate(0,4px);
+      transform: translate3d(0,4px,0);
+      transition: transform .4s cubic-bezier(0.4,1,0.4,1);
+      width: 100%;
+  }
+
+  .dw-nav-left {
+    float: left;
+    display: block;
+    width: auto;
+    height: 100%;
+    margin-left: 20px;
+    padding-left: 20px;
+    vertical-align: middle;
+    line-height: 47px;
+    white-space: nowrap;
+    font-size: 14px;
+    overflow: hidden;
+    border-left: 1px solid #f5f5f5;
+  }
+
+  a {
+    color: #3b6caa;
+    text-decoration: none;
+  }
+
+  a {
+    transition: .3s color;
+  }
+
+  .dw-nav-left a, .dw-nav-left a:visited, .dw-nav-left a:active {
+    color: #323232;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .masthead-rightside {
+      float: right;
+      height: 50px;
+      padding-right: 20px;
+      position: relative;
+  }
+
+  .padding-bottom-0 {
+      padding-bottom: 0!important;
+  }
+
+  .fleft {
+      float: left!important;
+  }
+
+  .button-link {
+      padding-bottom: 8px;
+  }
+
+  .mh-marketplace-link {
+      display: inline-block;
+      left: 0;
+      line-height: 0;
+      padding: 0 20px 0 0;
+      position: absolute;
+      top: 8px;
+      transform: translate3d(-100%,0px,0px);
+  }
+
+  #search-module {
+      box-sizing: border-box;
+      float: right;
+      position: relative;
+  }
+
+  .masthead-rightside #search-module {
+      float: left;
+      height: 50px;
+      min-width: 50px;
+      position: relative;
+  }
+
+  .search-typeahead-container {
+      background: #f4f4f4;
+      box-sizing: border-box;
+      color: #000;
+      position: absolute;
+      top: 51px;
+      width: 100%;
+      z-index: 510;
+      visibility: hidden;
+      opacity: 0;
+  }
+
+  .fadeout {
+      visibility: hidden;
+      opacity: 0;
+      transition: visibility 0s .4s,opacity .4s;
+  }
+
+  #search-module.has-scope+.search-typeahead-container {
+      padding-top: 45px;
+  }
+
+  .flow-counter ol, ul {
+      margin-bottom: 10px;
+      margin-top: 0;
+  }
+
+  ol, ul {
+      border: 0;
+      vertical-align: baseline;
+      background: no-scroll transparent;
+      padding: 0 0 15px;
+      margin: 0;
+      list-style: none;
+      font-size: 1rem;
+      line-height: 1.625rem;
+  }
+
+  .masthead-iconsonly {
+      display: inline-block;
+      padding: 0;
+      position: relative;
+  }
+
+}
+
+
+.page-main {
+
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>stack-area</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stack-area">
+            <polyline id="Shape" fill="#5596E6" fill-rule="nonzero" opacity="0.4" points="79.4288372 79.1831579 58.9981395 14.8280702 45.3786047 47.277193 35.7013953 24.0210526 23.5144186 62.957193 12.0446512 46.1936842 0.575813953 79.7249123"></polyline>
+            <polygon id="Shape" fill="#5596E6" fill-rule="nonzero" points="77.815814 78.5010526 58.8074419 35.285614 45.0195349 60.4996491 35.7162791 49.9929825 25.3767442 72.8168421 15.0381395 66.3045614 1.94139535 78.7438596 71.6855814 78.634386"></polygon>
+            <polyline id="Shape" stroke="#5596E6" opacity="0.8" stroke-linecap="round" stroke-linejoin="round" points="78.7125581 77.0175439 58.9981395 0.766315789 45.7386047 39.7052632 34.2669767 6.17403509 22.0809302 52.1431579 12.0446512 32.1319298 0.575813953 79.7249123"></polyline>
+        </g>
+    </g>
+</svg>

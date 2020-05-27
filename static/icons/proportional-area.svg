@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>prop-area</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="prop-area" fill="#5596E6" fill-rule="nonzero">
+            <rect id="Rectangle-path" x="0" y="47.2727273" width="32.7272727" height="32.7272727"></rect>
+            <rect id="Rectangle-path" x="35.1515152" y="55.7575758" width="24.2424242" height="24.2424242"></rect>
+            <rect id="Rectangle-path" x="35.1515152" y="29.0909091" width="24.2424242" height="24.2424242"></rect>
+            <rect id="Rectangle-path" x="61.8181818" y="61.8181818" width="18.1818182" height="18.1818182"></rect>
+            <rect id="Rectangle-path" x="61.8181818" y="41.2121212" width="18.1818182" height="18.1818182"></rect>
+            <rect id="Rectangle-path" x="61.8181818" y="20.6060606" width="18.1818182" height="18.1818182"></rect>
+            <rect id="Rectangle-path" x="61.8181818" y="0" width="18.1818182" height="18.1818182"></rect>
+            <rect id="Rectangle-path" x="47" y="15" width="12" height="12"></rect>
+        </g>
+    </g>
+</svg>

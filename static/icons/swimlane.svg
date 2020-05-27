@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>flowchart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flowchart" transform="translate(1.000000, 1.000000)" stroke="#5596E6">
+            <path d="M23.2244009,0 L23.2244009,79.0123457" id="Line-2" opacity="0.507087054" stroke-linecap="square" stroke-dasharray="3"></path>
+            <path d="M55.8460421,0 L55.8460421,79.0123457" id="Line-2" opacity="0.507087054" stroke-linecap="square" stroke-dasharray="3"></path>
+            <g id="Group" transform="translate(26.695715, 0.987654)" stroke-width="2">
+                <path d="M12.8395062,15.8024691 L12.8395062,52.5536062" id="Shape"></path>
+                <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="1.97530864 33.8380767 12.839217 22.7160494 23.7037037 33.8380767 12.839217 44.960104"></polygon>
+                <path d="M25.4528638,8.09876543 C25.4528638,12.0452242 23.2043569,15.2431449 20.4295415,15.2431449 L5.02332222,15.2431449 C2.24923785,15.2431449 0,12.0452242 0,8.09876543 L0,7.14437947 C0,3.19896037 2.24923785,0 5.02332222,0 L20.4302725,0 C23.2050879,0 25.4535948,3.19896037 25.4535948,7.14437947 L25.4535948,8.09876543 L25.4528638,8.09876543 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+            <rect id="Rectangle-path" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" x="59.3173565" y="63.3658219" width="19.7530864" height="15.7234569"></rect>
+            <rect id="Rectangle-path" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" x="0" y="63.3658219" width="19.7530864" height="15.7234569"></rect>
+            <polyline id="Line" stroke-width="2" stroke-linecap="square" points="9.89250272 63.1750445 9.87654321 53.4892787 68.9155612 53.4892787 69.1358025 62.8770003"></polyline>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="85px" viewBox="0 0 86 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>bubble-chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bubble-chart" transform="translate(1.000000, 1.000000)">
+            <polygon id="Rectangle-2" fill="#5596E6" opacity="0.598995536" points="2 2 28 2 32.6435282 27.4097077 2.11221294 55.4556367"></polygon>
+            <polygon id="Rectangle-2" fill="#5596E6" opacity="0.334933036" points="2 55 13.0313152 44.5015658 46.9650313 81.6257829 2.05596787 81.661791"></polygon>
+            <polygon id="Rectangle-4" fill="#5596E6" points="12.1993737 45.2494781 26.9070981 31.7338205 41.3507307 39.8408142 32.0255741 66.9425887"></polygon>
+            <polygon id="Rectangle-4" fill="#5596E6" opacity="0.598995536" points="55.4916493 28.940501 58.2656576 2.07359081 81.8987474 2.07463466 81.9791232 21.8058455"></polygon>
+            <polygon id="Rectangle-4" fill="#5596E6" points="54.1565762 47.5861169 55.7740084 28 65.6330898 25.5182672 70.4874739 57.4217119"></polygon>
+            <polygon id="Rectangle-4" fill="#5596E6" opacity="0.334933036" transform="translate(73.487735, 42.351253) scale(1, -1) translate(-73.487735, -42.351253) " points="64.8611691 58.8006263 69.3658664 28.1075157 81.8851775 20.6216075 82.1143006 64.0808977"></polygon>
+            <polygon id="Rectangle-4" fill="#5596E6" opacity="0.598995536" points="31 65.5156576 40.5208768 39.4311065 82.1419624 63.0840292 81.6831942 81.9029228 45.5636743 81.6628392"></polygon>
+            <polygon id="Rectangle-3" fill="#5596E6" points="27.3580376 1.95250522 60.1430063 1.73121086 32.0203549 28.0720251"></polygon>
+            <polygon id="Rectangle-3" fill="#5596E6" opacity="0.334933036" points="26.4786013 32.1492693 58.9237996 2.0480167 54.8272443 48.42119"></polygon>
+            <path d="M61.5,0.5 L0.5,56.5" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M82,64 L27,33" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M46,82 L13,46" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M54,48 L58.0457281,4.2133074" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M70,57 L66,27" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M83,21 L56,29" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M41,41 L33,67" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M32,27 L28,2" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

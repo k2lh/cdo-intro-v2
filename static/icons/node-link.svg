@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>node-link</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="node-link">
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="6" cy="59" r="6"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="34" cy="15" r="8"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="61" cy="65" r="6"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="71" cy="20" r="6"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="24" cy="62" r="6"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="7.00181818" cy="43.5836364" r="4"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="19" cy="4" r="4"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="43.3981818" cy="62.8390909" r="4"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="36" cy="45" r="4"></circle>
+            <path d="M22.4927273,62.3609091 L36.5,47.5" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="75.9790909" cy="60.9009091" r="4"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="56" cy="32" r="4"></circle>
+            <path d="M6.76,58.8390909 L32.5,15.5" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <path d="M35.5,15.5 L60.5318182,65.1790909" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <path d="M60.5318182,65.1790909 L69.5,23.5" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <path d="M60.5318182,65.1790909 L76.97,61.1872727" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <path d="M69.5,19.5 L55.5,31.5" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <path d="M33.9981818,14.94 L19.5,4.5" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <path d="M5.11545455,59.7772727 L5.82,42.4018182" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <path d="M5.11545455,59.7772727 L22.4927273,62.3609091" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <path d="M22.4927273,62.3609091 L41.7463636,61.1872727" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="32.3627273" cy="75.5190909" r="4"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="59" cy="9" r="4"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="15" cy="15" r="4"></circle>
+            <path d="M14.5,14.94 L33.9981818,14.94" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <path d="M69.5,18.5 L58,8" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <path d="M22.4927273,62.3609091 L30.7109091,73.8672727" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

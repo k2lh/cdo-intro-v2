@@ -1,0 +1,48 @@
+.menu {
+  align-items: center;
+  background-color: $color-menu;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: flex-start;
+  padding: 45px 21px;
+  width: em(250px);
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  &__logo {
+    border-bottom: 1px solid $color-menu-border;
+    font-size: 24px;
+    padding-bottom: 40px;
+    width: 200px;
+
+    .home {
+      color: $color-white;
+      text-decoration: none;
+
+      span {
+        color: $blue-30;
+        display: block;
+      }
+    }
+
+  }
+
+  &__list {
+    width: 200px;
+
+    &-item {
+      a {
+        border-bottom: 1px solid $color-menu-border;
+        color: $color-white;
+        display: inline-block;
+        font-size: 14px;
+        padding: 30px 0 25px 10px;
+        text-decoration: none;
+        text-transform: uppercase;
+        width: 100%;
+      }
+    }
+  }
+}

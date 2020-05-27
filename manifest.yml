@@ -1,0 +1,6 @@
+---
+applications:
+ - name: saa
+   random-route: false
+   memory: 512M
+   content_security_policy: default-src 'self' style-src 'self' 'unsafe-inline'

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="80px" viewBox="0 0 79 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>gauge</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gauge">
+            <path d="M3.17339788,40.066675 C3.68756086,20.9566193 19.5027761,5.56124852 39.1154519,5.09434975 L38.9105733,40.1368451 L3.17339788,40.066675 Z" id="Combined-Shape" fill="#5596E6"></path>
+            <path d="M38.982457,40.0528089 C39.49662,20.9427531 55.3118353,5.54738236 74.924511,5.08048358 L74.7196324,40.1229789 L38.982457,40.0528089 Z" id="Combined-Shape" fill="#5596E6" opacity="0.250334821" transform="translate(56.953484, 22.601731) rotate(90.000000) translate(-56.953484, -22.601731) "></path>
+            <path d="M3.16049383,74.9723253 C3.67465681,55.8622695 19.4898721,40.4668988 39.1025478,40 L38.8976692,75.0424953 L3.16049383,74.9723253 Z" id="Combined-Shape" fill="#5596E6" opacity="0.745033482" transform="translate(21.131521, 57.521248) scale(1, -1) translate(-21.131521, -57.521248) "></path>
+            <path d="M38.982457,74.9693686 C39.49662,55.8593128 55.3118353,40.4639421 74.924511,39.9970433 L74.7196324,75.0395386 L38.982457,74.9693686 Z" id="Combined-Shape" fill="#5596E6" opacity="0.502232143" transform="translate(56.953484, 57.518291) scale(1, -1) rotate(90.000000) translate(-56.953484, -57.518291) "></path>
+            <ellipse id="Oval-2" fill="#FFFFFF" cx="38.9794239" cy="40" rx="17.909465" ry="17.4582798"></ellipse>
+            <polygon id="Triangle" fill="#5596E6" transform="translate(43.483431, 13.808130) rotate(90.000000) translate(-43.483431, -13.808130) " points="43.4834308 8.15986307 56.6521551 19.4563971 30.3147065 19.4563971"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(34.619233, 66.188616) scale(-1, 1) rotate(90.000000) translate(-34.619233, -66.188616) " points="34.6192333 60.5403492 47.7879575 71.8368833 21.450509 71.8368833"></polygon>
+            <polygon id="Triangle" fill="#5596E6" opacity="0.497823661" transform="translate(34.619233, 66.188616) scale(-1, 1) rotate(90.000000) translate(-34.619233, -66.188616) " points="34.6192333 60.5403492 47.7879575 71.8368833 21.450509 71.8368833"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" transform="translate(65.845268, 44.404365) scale(1, -1) translate(-65.845268, -44.404365) " points="65.8452675 38.7560976 79.0156379 50.0526316 52.6748971 50.0526316"></polygon>
+            <polygon id="Triangle" fill="#5596E6" opacity="0.25" transform="translate(65.845268, 44.404365) scale(1, -1) translate(-65.845268, -44.404365) " points="65.8452675 38.7560976 79.0156379 50.0526316 52.6748971 50.0526316"></polygon>
+            <polygon id="Triangle" fill="#FFFFFF" points="13.1687243 29.9602054 26.3374486 41.2567394 0 41.2567394"></polygon>
+            <polygon id="Triangle" fill="#5596E6" opacity="0.749944196" points="13.1687243 29.9602054 26.3374486 41.2567394 0 41.2567394"></polygon>
+        </g>
+    </g>
+</svg>

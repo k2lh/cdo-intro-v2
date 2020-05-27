@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="80px" viewBox="0 0 81 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>bubble-time</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bubble-time">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="0" y="0" width="80" height="80"></rect>
+            <path d="M1,42.0526316 L79,42.0526316" id="Line" stroke="#5596E6" stroke-width="2" opacity="0.502566964" stroke-linecap="square"></path>
+            <circle id="Oval" stroke="#5596E6" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="16" cy="42" r="12"></circle>
+            <circle id="Oval" stroke="#5596E6" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="42" cy="42" r="4"></circle>
+            <circle id="Oval" stroke="#5596E6" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="65" cy="42" r="8"></circle>
+            <path d="M3,1.5 C2.17157288,1.5 1.5,2.17157288 1.5,3 L1.5,21.1052632 C1.5,21.9336903 2.17157288,22.6052632 3,22.6052632 L12.4110109,22.6052632 L12.5592399,22.8297812 C14.4165536,25.6430006 15.7679598,27.0810033 16.3481867,27.0810033 C16.9231055,27.0810033 18.2306487,25.646925 20.0063854,22.8380806 L20.1535714,22.6052632 L29.617284,22.6052632 C30.4457111,22.6052632 31.117284,21.9336903 31.117284,21.1052632 L31.117284,3 C31.117284,2.17157288 30.4457111,1.5 29.617284,1.5 L3,1.5 Z" id="Rectangle" stroke="#5596E6" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M51,1.5 C50.1715729,1.5 49.5,2.17157288 49.5,3 L49.5,21.1052632 C49.5,21.9336903 50.1715729,22.6052632 51,22.6052632 L60.486297,22.6052632 L60.6090961,22.9269429 C62.4203776,27.6717044 63.8166553,30.2296464 64.3038194,30.2296464 C64.7895139,30.2296464 66.173227,27.6722001 67.9611463,22.9289074 L68.0831396,22.6052632 L77.617284,22.6052632 C78.4457111,22.6052632 79.117284,21.9336903 79.117284,21.1052632 L79.117284,3 C79.117284,2.17157288 78.4457111,1.5 77.617284,1.5 L51,1.5 Z" id="Rectangle" stroke="#5596E6" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M29,49.4999996 C28.1715729,49.4999996 27.5,50.1715725 27.5,50.9999996 L27.5,69.1052628 C27.5,69.9336899 28.1715729,70.6052628 29,70.6052628 L38.486297,70.6052628 L38.6090961,70.9269425 C40.4203776,75.671704 41.8166553,78.229646 42.3038194,78.229646 C42.7895139,78.229646 44.173227,75.6721997 45.9611463,70.928907 L46.0831396,70.6052628 L55.617284,70.6052628 C56.4457111,70.6052628 57.117284,69.9336899 57.117284,69.1052628 L57.117284,50.9999996 C57.117284,50.1715725 56.4457111,49.4999996 55.617284,49.4999996 L29,49.4999996 Z" id="Rectangle" stroke="#5596E6" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" transform="translate(42.308642, 63.864823) scale(-1, 1) rotate(-180.000000) translate(-42.308642, -63.864823) "></path>
+        </g>
+    </g>
+</svg>

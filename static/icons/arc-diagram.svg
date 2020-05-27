@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="71px" viewBox="0 0 82 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>arc-diagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arc-diagram" transform="translate(1.000000, 1.000000)" stroke="#5596E6" stroke-width="2">
+            <path d="M5.12808238,42.1271249 C5.12808238,56.968604 16.8372779,69 31.2813025,69 C45.7253272,69 57.4345227,56.968604 57.4345227,42.1271249" id="Oval"></path>
+            <path d="M18.4610966,9.2817812 C18.4610966,25.7083191 31.0886603,39.024659 46.6655497,39.024659 C62.242439,39.024659 74.8700027,25.7083191 74.8700027,9.2817812" id="Oval" transform="translate(46.665550, 24.153220) scale(-1, 1) rotate(-180.000000) translate(-46.665550, -24.153220) "></path>
+            <path d="M32.8197272,42.1271249 C32.8197272,52.550326 42.233002,61 53.844865,61 C65.4567279,61 74.8700027,52.550326 74.8700027,42.1271249" id="Oval"></path>
+            <path d="M6.15369886,21.5891789 C6.15369886,28.9527994 12.1230926,34.9221931 19.486713,34.9221931 C26.8503334,34.9221931 32.8197272,28.9527994 32.8197272,21.5891789" id="Oval" transform="translate(19.486713, 28.255686) scale(-1, 1) rotate(-180.000000) translate(-19.486713, -28.255686) "></path>
+            <path d="M5.12808238,-3.55271368e-15 C5.12808238,21.5527241 20.740343,39.024659 39.9990426,39.024659 C59.2577421,39.024659 74.8700027,21.5527241 74.8700027,-3.55271368e-15" id="Oval" transform="translate(39.999043, 19.512329) scale(-1, 1) rotate(-180.000000) translate(-39.999043, -19.512329) "></path>
+            <circle id="Oval-2" fill="#FFFFFF" fill-rule="nonzero" cx="5.12808238" cy="37.9990426" r="5.12808238"></circle>
+            <circle id="Oval-2" fill="#FFFFFF" fill-rule="nonzero" cx="57.4345227" cy="37.9990426" r="5.12808238"></circle>
+            <circle id="Oval-2" fill="#FFFFFF" fill-rule="nonzero" cx="32.8197272" cy="37.9990426" r="5.12808238"></circle>
+            <circle id="Oval-2" fill="#FFFFFF" fill-rule="nonzero" cx="18.4610966" cy="37.9990426" r="5.12808238"></circle>
+            <circle id="Oval-2" fill="#FFFFFF" fill-rule="nonzero" cx="74.8700027" cy="37.9990426" r="5.12808238"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="80px" viewBox="0 0 81 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>dot-matrix</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dot-matrix">
+            <g id="Group">
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" cx="6.92469642" cy="7.01347457" rx="6.92469642" ry="7.01347457"></ellipse>
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" cx="29.4838288" cy="7.01347457" rx="6.92469642" ry="7.01347457"></ellipse>
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" cx="52.0429611" cy="7.01347457" rx="6.92469642" ry="7.01347457"></ellipse>
+                <ellipse id="Oval" stroke="#5596E6" cx="73.5766784" cy="7.01347457" rx="6.4183673" ry="6.50065406"></ellipse>
+            </g>
+            <g id="Group-2" transform="translate(0.000000, 21.809791)">
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" cx="6.92469642" cy="7.01347457" rx="6.92469642" ry="7.01347457"></ellipse>
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" cx="29.1420237" cy="7.01347457" rx="6.92469642" ry="7.01347457"></ellipse>
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.5" cx="51.3593511" cy="7.01347457" rx="6.92469642" ry="7.01347457"></ellipse>
+                <ellipse id="Oval" stroke="#5596E6" cx="73.5766784" cy="7.01347457" rx="6.4183673" ry="6.50065406"></ellipse>
+            </g>
+            <g id="Group-3" transform="translate(0.000000, 43.619582)">
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" cx="6.92469642" cy="7.01347457" rx="6.92469642" ry="7.01347457"></ellipse>
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" cx="29.1420237" cy="7.01347457" rx="6.92469642" ry="7.01347457"></ellipse>
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.5" cx="51.3593511" cy="7.01347457" rx="6.92469642" ry="7.01347457"></ellipse>
+                <ellipse id="Oval" stroke="#5596E6" cx="73.5766784" cy="7.01347457" rx="6.4183673" ry="6.50065406"></ellipse>
+            </g>
+            <g id="Group-4" transform="translate(0.000000, 65.429371)">
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" cx="6.92469642" cy="7.01347457" rx="6.92469642" ry="7.01347457"></ellipse>
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" cx="29.4838288" cy="7.01347457" rx="6.92469642" ry="7.01347457"></ellipse>
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.5" cx="51.017546" cy="7.01347457" rx="6.92469642" ry="7.01347457"></ellipse>
+                <ellipse id="Oval" stroke="#5596E6" cx="73.5766784" cy="7.01347457" rx="6.4183673" ry="6.50065406"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

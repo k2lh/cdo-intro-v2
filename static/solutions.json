@@ -1,0 +1,115 @@
+[
+  {
+    "clarify": [
+      {
+        "title": "What's the story?",
+        "boxes": [
+          {
+            "activity": "Task Analysis",
+            "description": "Systematic analysis and documentation of user activities and procedures help us align with the user's key priorities and preferred working style."
+          },
+          {
+            "activity": "Group Workshop",
+            "description": "Workshops can inspire radical collaboration, derive priorities, and align everyone with a shared understanding of questions and opportunities."
+          },
+          {
+            "activity": "Root Cause Analysis",
+            "description": "A root cause analysis investigates patterns of negative effects, finding hidden flaws in the system, and discovering specific actions that contributed to the problem."
+          }
+        ]
+      },
+      {
+        "title": "Who are the users?",
+        "boxes": [
+          {
+            "activity": "Usability Study",
+            "description": "Usability tests evaluate the impact of a product on user performance and satisfaction."
+          },
+          {
+            "activity": "Ethnography Study",
+            "description": "Observing users in their working environments helps identify unarticulated, habitual needs based on tacit knowledge."
+          },
+          {
+            "activity": "User Interviews",
+            "description": "Interviews help us identify explicit and implict issues to create personas, data models, and user stories to drive hills and use cases."
+          }
+        ]
+      },
+      {
+        "title": "What's the big picture?",
+        "boxes": [
+          {
+            "activity": "Expert Review",
+            "description": "Expert Reviews help evaluate and address usability issues in a shorter time frame than most usability tests."
+          },
+          {
+            "activity": "Competitive Evaluation",
+            "description": "Competitive evaluations include documenting gaps, identifying overlaps, and other overlooked differentiators."
+          }
+        ]
+      }
+    ],
+    "evaluate": [
+      {
+        "title": "Collect the data",
+        "boxes": [
+          {
+            "activity": "Data Analysis",
+            "description": "Data Analysis identifies gaps in the data by assessing data quality, determining data collection opportunities, and concluding with recommended actions."
+          },
+          {
+            "activity": "Data Taxonomy",
+            "description": "Data taxonomy enables faster and more efficient searching of needed data elements. A thorough data taxonomy plan offers advantages for handling data elements for analysis, statistical forecasting, and maintenance."
+          }
+        ]
+      },
+      {
+        "title": "Explore the data",
+        "boxes": [
+          {
+            "activity": "Data Ingestion",
+            "description": "Data ingestion is the process of moving data from its origin point into a system where it can be stored and analyzed. A transformation or conversion step may be necessary."
+          },
+          {
+            "activity": "Shape of the Data",
+            "description": "This type of analysis helps visualize how the data falls into groups. Results may categorize the data as symmetric, roughly symmetric, or non-symmetric. It can also illustrate where the data may be skewed."
+          },
+          {
+            "activity": "Change Assessment",
+            "description": "Change Assessment measures the organizational and cultural impact of introducting a new data structure to prepare an effective change management strategy."
+          }
+        ]
+      },
+      {
+        "title": "Analyze the data",
+        "boxes": [
+          {
+            "activity": "Automation Assessment",
+            "description": ""
+          },
+          {
+            "activity": "Hypothesis Testing",
+            "description": ""
+          },
+          {
+            "activity": "Algorithm Design",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "Validate the results",
+        "boxes": [
+          {
+            "activity": "Data Modeling",
+            "description": ""
+          },
+          {
+            "activity": "Data Validation",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>org-chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="org-chart">
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="33.1737834" y="0.0555691222" width="14.1772152" height="13.8271605"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="33.1737834" y="65.9478135" width="14.1772152" height="13.8271605"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="0.852433193" y="65.9478135" width="14.1772152" height="13.8271605"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="65.1971871" y="65.9478135" width="14.1772152" height="13.8271605"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="17.9109986" y="33.6806765" width="14.1772152" height="13.8271605"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="48.7381153" y="33.6806765" width="14.1772152" height="13.8271605"></rect>
+            <polyline id="Shape" stroke="#5596E6" stroke-width="2" points="25.542391 36.5644824 25.542391 23.4293312 56.3677075 23.4293312 56.3677075 36.8261204"></polyline>
+            <polyline id="Shape" stroke="#5596E6" stroke-width="2" points="7.92213783 69.5760141 7.92213783 56.4408628 40.4316174 56.4408628 40.4316174 69.8376521"></polyline>
+            <path d="M40.6566526,6.09408041 L40.6566526,23.4293312" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <path d="M25.6180028,39.1056121 L25.6180028,56.4408628" id="Shape" stroke="#5596E6" stroke-width="2"></path>
+            <polyline id="Shape" stroke="#5596E6" stroke-width="2" points="56.2551899 39.1727581 56.2551899 56.1155519 72.7538678 56.1155519 72.7538678 71.6772215"></polyline>
+        </g>
+    </g>
+</svg>

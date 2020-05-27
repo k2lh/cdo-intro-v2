@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="79px" viewBox="0 0 81 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>pictogram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pictogram" transform="translate(0.026613, -0.023386)">
+            <path d="M0.961369887,77.8631203 L79.9737156,77.8631203" id="Line" stroke="#5596E6" stroke-linecap="square"></path>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="19.4197531" cy="69.8648649" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="32.8518519" cy="69.8648649" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="46.2839506" cy="69.8648649" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="5.98765432" cy="69.8648649" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="73.1481481" cy="69.8648649" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="59.7160494" cy="69.8648649" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="19.4197531" cy="56.8918919" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="32.8518519" cy="56.8918919" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="46.2839506" cy="56.8918919" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="5.98765432" cy="56.8918919" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="73.1481481" cy="56.8918919" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="32.8518519" cy="43.9189189" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="46.2839506" cy="43.9189189" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="5.98765432" cy="43.9189189" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="73.1481481" cy="43.9189189" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="32.8518519" cy="30.9459459" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="46.2839506" cy="30.9459459" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="32.8518519" cy="17.972973" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="46.2839506" cy="17.972973" r="5"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" cx="32.8518519" cy="5" r="5"></circle>
+        </g>
+    </g>
+</svg>

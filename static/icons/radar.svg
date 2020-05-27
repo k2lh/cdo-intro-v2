@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>radar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="radar" transform="translate(1.000000, 1.000000)">
+            <circle id="Oval" stroke="#5596E6" stroke-width="2" opacity="0.496595982" cx="40" cy="40.0483721" r="39.4251163"></circle>
+            <path d="M40.1534884,40.1181395 L40.1534884,0.693023256" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.496595982"></path>
+            <circle id="Oval" stroke="#5596E6" stroke-width="2" opacity="0.496595982" cx="40" cy="39.9460465" r="29.4874419"></circle>
+            <circle id="Oval" stroke="#5596E6" stroke-width="2" opacity="0.496595982" cx="39.9990698" cy="39.9423256" r="19.8762791"></circle>
+            <circle id="Oval" stroke="#5596E6" stroke-width="2" opacity="0.496595982" cx="39.9990698" cy="39.8437209" r="10.0586047"></circle>
+            <path d="M40.1534884,40.1181395 L70.7934884,15.307907" id="Shape" stroke="#5596E6" stroke-width="2.5" opacity="0.496595982"></path>
+            <path d="M40.1534884,40.1181395 L78.7172093,48.3181395" id="Shape" stroke="#5596E6" stroke-width="2.5" opacity="0.496595982"></path>
+            <path d="M40.1534884,40.1181395 L57.4353488,75.5572093" id="Shape" stroke="#5596E6" stroke-width="2.5" opacity="0.496595982"></path>
+            <path d="M40.1534884,40.1181395 L23.492093,75.8511628" id="Shape" stroke="#5596E6" stroke-width="2.5" opacity="0.496595982"></path>
+            <path d="M40.1534884,40.1181395 L1.73953488,48.9888372" id="Shape" stroke="#5596E6" stroke-width="2.5" opacity="0.496595982"></path>
+            <path d="M40.1534884,40.1181395 L9.08651163,15.8483721" id="Shape" stroke="#5596E6" stroke-width="2.5" opacity="0.496595982"></path>
+            <polygon id="Shape" fill="#5596E6" fill-rule="nonzero" opacity="0.836551339" points="1.95627907 49.1172093 16.8353488 22.2483721 39.9851163 30.6539535 68.6455814 17.012093 68.2325581 46.4976744 52.9367442 66.7553488 36.1265116 49.8046512"></polygon>
+        </g>
+    </g>
+</svg>

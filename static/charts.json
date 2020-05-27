@@ -1,0 +1,3389 @@
+[
+  {
+    "id": "adjacency",
+    "image": true,
+    "title": "Adjacency Matrix",
+    "use": "The adjacency matrix has rows and columns labeled by graph vertices, with a 1 or 0 in position according to whether and are adjacent or not. For a simple graph with no self-loops, the adjacency matrix must have 0s on the diagonal. The adjacency matrix may be used as a data structure for the representation of graphs in computer programs for manipulating graphs.",
+    "need": "The matrix requires an array of linked lists. The size of the array is equal to the number of vertices.",
+    "chart": "",
+    "data": "",
+    "variations": [
+      "Correlation Matrix",
+      "Connection matrix"
+    ],
+    "alt": [],
+    "related": [
+      {
+        "name": "Matrix Diagram",
+        "id": "matrix"
+      },
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      }
+    ],
+    "pro": "Representation is easier to implement and follow. Removing an edge takes little time. Queries like whether there is an edge from vertex ‘u’ to vertex ‘v’ are efficient and can be done easily.",
+    "con": "Requires more visual space than a simple list. Even if the graph contains fewer edges, it consumes the same space. Adding a vertex is not a simple procedure.",
+    "keywords": [
+      "relationships",
+      "patterns",
+      "concepts"
+    ]
+  },
+  {
+    "id": "alluvial",
+    "image": true,
+    "title": "Alluvial Diagram",
+    "use": "Alluvial diagrams (closely related to Sankey diagrams) show how various entities (or nodes) flow together or apart across stages representing multiple groups or time periods. In these diagrams, width of the streams shows size or proportion within each category, similar to how tributaries join to form larger streams or how rivers split to form various branches. To show how multiple groups relate to one another (shown when their streams flow together) or differ from one another (shown when their streams split apart), across several variables. Alluvial diagrams are especially useful for literal flows: of money, goods, time, votes, and so on, but also versatile for many other purposes. They can also show which variables are more clustered (fewer, wider streams) and which are more distributed (more, narrower streams).",
+    "need": "Variables are assigned to vertical axes that are parallel. Values are represented with blocks on each axis. The height of a block represents the size of the cluster and the height of a stream field represents the size of the components contained in both blocks connected by the stream field.",
+    "chart": "",
+    "data": "",
+    "related": [
+      {
+        "name": "Sankey Diagram",
+        "id": "sankey"
+      },
+      {
+        "name": "Streamgraph",
+        "id": "stream"
+      },
+      {
+        "name": "Bump Chart",
+        "id": "bump"
+      },
+      {
+        "name": "Stacked Area Chart",
+        "id": "stacked-area"
+      },
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      }
+    ],
+    "pro": "",
+    "con": "Although easily mistaken for Sankey Diagrams, Alluvial Diagrams are more rigid; every band must be incident with a node at each horizontal position, and often the bands don't change weight from node to node.",
+    "variations": [],
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "trends",
+      "proportions"
+    ]
+  },
+  {
+    "id": "arc-diagram",
+    "image": true,
+    "title": "Arc Diagram",
+    "use": "Arc Diagrams are an alternate way of representing two-dimensional Node-Link Diagrams. In Arc Diagrams, nodes are placed along a single line (a one-dimensional axis) and arcs are used to show connections between those nodes. The thickness of each arc line can be used to represent frequency between the source and target node.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Chord Diagram",
+        "id": "chord"
+      },
+      {
+        "name": "Hive Plot",
+        "id": "hive"
+      },
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      }
+    ],
+    "pro": "Arc Diagrams can be useful in finding the co-occurrence within the data.",
+    "con": "These charts don't show structure and connections between nodes as well as 2D charts do, and too many links can make the diagram hard to read due to clutter.",
+    "alt": [
+      "Arc Chord Diagram"
+    ],
+    "keywords": [
+      "relationships",
+      "patterns"
+    ]
+  },
+  {
+    "id": "area-chart",
+    "image": true,
+    "title": "Area Chart",
+    "use": "Area Graphs are Line Graphs but with the area below the line filled in with a certain colour or texture. Area Graphs are drawn by first plotting data points on a Cartesian coordinate grid, joining a line between the points and finally filling in the space below the completed line. Like Line Graphs, Area Graphs are used to display the development of quantitative values over an interval or time period. They are most commonly used to show trends, rather than convey specific values.",
+    "pro": "",
+    "con": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [
+      "3D"
+    ],
+    "related": [
+      {
+        "name": "Density Plot",
+        "id": "density"
+      },
+      {
+        "name": "Stacked Area Chart",
+        "id": "stacked-area"
+      },
+      {
+        "name": "Line Chart",
+        "id": "line"
+      }
+    ],
+    "alt": [],
+    "keywords": [
+      "patterns",
+      "trends"
+    ]
+  },
+  {
+    "id": "aster",
+    "image": true,
+    "title": "Aster Plot",
+    "use": "This is a twist on a standard donut chart, using a second value to drive sweep angle. An aster plot displays pie slices as lengths extending outward to the edge (0 at inner to 100 at outer). Widths of the pie slices represent the weight of each pie, which gets used to arrive at a weighted mean of the length scores in the center. Visually, it's a combination of a bar chart and a pie chart.",
+    "need": "To populate this type of data visualization, you will need discrete categories. One axis of the chart shows the specific categories being compared, and the other axis represents a measured value.",
+    "chart": "",
+    "data": "",
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "variations": [],
+    "related": [
+      {
+        "name": "Donut Chart",
+        "id": "donut"
+      },
+      {
+        "name": "Radar Chart",
+        "id": "radar"
+      },
+      {
+        "name": "Nightingale Rose Chart",
+        "id": "nightingale"
+      }
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution"
+    ]
+  },
+  {
+    "id": "bag-plot",
+    "image": true,
+    "title": "Bag Plot",
+    "use": "A bagplot is a method in robust statistics for visualizing two-dimensional statistical data. The bagplot allows one to visualize the location, spread, skewness, and outliers of the data set. The bagplot consists of three nested polygons, called the “bag”, the “fence”, and the “loop”. The bagplot is sometimes defined as the multidimensional (bivariate) version of the box plot.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "id": "box-plot",
+        "name": "Box Plot"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "bivariate boxplot"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution"
+    ]
+  },
+  {
+    "id": "bar-chart",
+    "image": true,
+    "title": "Bar Chart",
+    "use": "A bar chart presents categorical data with vertical bars whose heights are proportions to their values. The bars may be rectangular, triangles, or curved. A Bar Chart's discrete data is categorical data and answers the question of quantity in each category.",
+    "need": "To populate this type of data visualization, you will need discrete categories. One axis of the chart shows the specific categories being compared, and the other axis represents a measured value.",
+    "pro": "Bar charts are a good communication tool, easy to prepare and update.",
+    "con": "Does not show relationships between activities without additional lines.",
+    "related": [
+      {
+        "name": "Lollipop Chart",
+        "id": "lollipop"
+      },
+      {
+        "id": "butterfly",
+        "name": "Butterfly Chart"
+      },
+      {
+        "id": "circular-bar",
+        "name": "Circular Bar Chart"
+      },
+      {
+        "id": "dot-plot",
+        "name": "Dot Plot"
+      },
+      {
+        "id": "floating-bar",
+        "name": "Floating Bar Graph"
+      },
+      {
+        "id": "gantt",
+        "name": "Gantt Chart"
+      },
+      {
+        "id": "waterfall",
+        "name": "Waterfall Chart"
+      },
+      {
+        "id": "multiset-bar",
+        "name": "Multiset Bar Chart"
+      },
+      {
+        "id": "pyramid",
+        "name": "Pyramid Diagram"
+      },
+      {
+        "id": "radial-column",
+        "name": "Radial Column Chart"
+      },
+      {
+        "id": "uniform",
+        "name": "Uniform/Normal Distribution"
+      }
+    ],
+    "chart": "",
+    "data": "",
+    "variations": [
+      "vertical",
+      "horizontal",
+      "3D"
+    ],
+    "alt": [
+      "Vertical Bar Chart",
+      "Discrete Bar Chart"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "patterns"
+    ]
+  },
+  {
+    "id": "bar-map",
+    "image": true,
+    "title": "Bar Chart Map",
+    "use": "Bar chart on a map is a combination of a map with locations and a bar chart. It is useful when presenting geospatial data along values. The location could represent a city, a country or any other kind of location. Like a bar chart, the height or volume of each bar is proportional to the values it represents.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Cartogram",
+        "id": "cartogram"
+      },
+      {
+        "name": "Bar Chart",
+        "id": "bar-chart"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "geospatial"
+    ]
+  },
+  {
+    "id": "bivariate",
+    "image": true,
+    "title": "Bivariate Area Chart",
+    "use": "Bivariate Area Charts are designed to reveal the relationship between two variables, showing cause-and-effect relationships within a given time interval.",
+    "need": "To create this kind of chart, you'll need at least two variables from the same data set, with each variable corresponding to an attribute.",
+    "chart": "",
+    "data": "",
+    "pro": "",
+    "variations": [],
+    "alt": [],
+    "con": "This type of chart offers more insight but can be opaque to unfamiliar users. It can take time to grasp what this kind of chart is saying.",
+    "related": [
+      {
+        "name": "Scatterplot",
+        "id": "scatterplot"
+      },
+      {
+        "name": "Point & Figure Chart",
+        "id": "point-and-figure"
+      },
+      {
+        "name": "Renko chart",
+        "id": "renko"
+      }
+    ],
+    "keywords": [
+      "distribution",
+      "ranges",
+      "trends"
+    ]
+  },
+  {
+    "id": "box-plot",
+    "image": true,
+    "title": "Box Plot",
+    "use": "A Box Plot is a convenient way of visually displaying the data distribution through their quartiles. The lines extending parallel from the boxes are known as the “whiskers”, which are used to indicate variability outside the upper and lower quartiles. Outliers are sometimes plotted as individual dots that are in-line with whiskers. Box Plots can be drawn either vertically or horizontally.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [
+      "variable-width",
+      "notched"
+    ],
+    "related": [
+      {
+        "id": "histogram",
+        "name": "Histogram"
+      },
+      {
+        "id": "density",
+        "name": "Density Plot"
+      },
+      {
+        "id": "violin",
+        "name": "Violin Plot"
+      },
+      {
+        "name": "Floating Bar Chart",
+        "id": "floating-bar"
+      }
+    ],
+    "pro": "These charts take up less space, which is useful when comparing distributions between many groups or datasets.",
+    "con": "",
+    "alt": [
+      "Box & Whisker Plot"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "patterns",
+      "ranges"
+    ]
+  },
+  {
+    "id": "bubble-chart",
+    "image": true,
+    "title": "Bubble Chart",
+    "use": "A bubble chart is a type of chart that displays three dimensions of data.",
+    "need": "Each entity with its triplet (v1, v2, v3) of associated data is plotted as a disk that expresses two of the vi values through the disk's xy location and the third through its size. Bubble charts can facilitate the understanding of social, economical, medical, and other scientific relationships.",
+    "pro": "Bubble charts are good for visualizing situations, patterns, and correlations.",
+    "con": "This kind of chart cannot show “why” or “how” within the data, and thus may be used or interpreted incorrectly.",
+    "related": [
+      {
+        "name": "Scatterplot",
+        "id": "scatterplot"
+      },
+      {
+        "id": "proportional-area",
+        "name": "Proportional Area Chart"
+      }
+    ],
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "patterns",
+      "proportions",
+      "relationships",
+      "trends"
+    ]
+  },
+  {
+    "id": "bubble-map",
+    "image": true,
+    "title": "Bubble Map",
+    "use": "A Bubble Map Chart is simply a combination of a bubble chart data visualization and a map. It is used to visualize location and proportaion in a simple way.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Cartogram",
+        "id": "cartogram"
+      },
+      {
+        "name": "Bubble Chart",
+        "id": "bubble"
+      },
+      {
+        "name": "Pin Map",
+        "id": "pin-map"
+      },
+      {
+        "id": "choropleth",
+        "name": "Choropleth Map"
+      }
+    ],
+    "pro": "Good for comparing proportions over geographic regions without the issues caused by regional area size.",
+    "con": "A major flaw is that overly large bubbles can overlap other bubbles and regions on the map, so this needs to be accounted for.",
+    "alt": [],
+    "keywords": [
+      "geospatial",
+      "comparisons",
+      "distribution"
+    ]
+  },
+  {
+    "id": "bubble-time",
+    "image": true,
+    "title": "Bubble Timeline",
+    "use": "A Bubble timeline is a way to display a set of events or items on a timeline with a variable displayed as the the are size of the bubbles. In essence the bubble timeline is a compound data visualization, of a scaled timeline and a proportional area chart.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Timeline",
+        "id": "timeline"
+      },
+      {
+        "name": "Bubble Chart",
+        "id": "bubble"
+      },
+      {
+        "id": "proportional-area",
+        "name": "Proportional Area Chart"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Compound proportions area chart timeline"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "patterns",
+      "proportions",
+      "trends"
+    ]
+  },
+  {
+    "id": "bullet",
+    "image": true,
+    "title": "Bullet Chart",
+    "use": "The bullet graph serves as a replacement for dashboard gauges and meters; they're more compact in space and information, with little useless or distracting decoration. The range is displayed as a qualitative range of performance, displayed as varying intensities of a single hue for better accessibility, and to minimize distracting color usage.",
+    "need": "To create this chart, you'll need a single, primary measure (for example, current year-to-date revenue), with one additional data point to enrich its meaning (for example, compared to a target). When using Bullet Graphs, it's ideal to keep the maximum number of ranges to five.",
+    "chart": "",
+    "data": "",
+    "pro": "",
+    "con": "",
+    "related": [
+      {
+        "name": "Gauge Chart",
+        "id": "gauge"
+      }
+    ],
+    "variations": [],
+    "alt": [
+      "Progress Bar",
+      "Status Bar"
+    ],
+    "keywords": [
+      "comparisons",
+      "ranges"
+    ]
+  },
+  {
+    "id": "bump",
+    "image": true,
+    "title": "Bump Chart",
+    "use": "Bump charts are generally used to view changes in rank over time very effectively. ",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Slopegraph",
+        "id": "slopegraph"
+      },
+      {
+        "name": "Parallel Coordinates Diagram",
+        "id": "parallel-coord"
+      }
+    ],
+    "pro": "Use a bump chart when rank is the only thing of importance, without regard magnitude or distribution.",
+    "con": "If actual and relative magnitudes are most important, a different chart may be more appropriate.",
+    "alt": [
+      "Rank Chart"
+    ],
+    "keywords": [
+      "comparisons",
+      "trends"
+    ]
+  },
+  {
+    "id": "butterfly",
+    "image": true,
+    "title": "Butterfly Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Tornado Chart",
+      "Tornado diagram"
+    ],
+    "keywords": [
+      "comparisons"
+    ]
+  },
+  {
+    "id": "candlestick",
+    "image": true,
+    "title": "Candlestick Chart",
+    "use": "A candlestick chart is a style of financial chart used to describe price movements of a security, derivative, or currency.",
+    "need": "To create a candlestick chart, you must have a data set that contains open, high, low and close values for each time period you want to display. The hollow or filled portion of the candlestick is called “the body” (also referred to as “the real body”). The long thin lines above and below the body represent the high/low range and are called “shadows” (also referred to as “wicks” and “tails”).",
+    "pro": "What makes this chart type popular is that it actually catches and relays, at least to some extent, the emotions behind price movements. Especially long wicks can reveal strong support and resistance levels (link to article) if they are observed on longer periods and can show violent movements within a single day.",
+    "con": "They look different on every time frame, and using this chart to manage risk can be difficult.",
+    "related": [
+      {
+        "name": "Box plot",
+        "id": "box-plot"
+      },
+      {
+        "id": "kagi",
+        "name": "Kagi chart"
+      },
+      {
+        "id": "open-high-low",
+        "name": "Open-High-Low-Close Chart"
+      }
+    ],
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "alt": [
+      "Japanese Candlestick Chart"
+    ],
+    "keywords": [
+      "patterns",
+      "trends",
+      "ranges"
+    ]
+  },
+  {
+    "id": "cartogram",
+    "image": true,
+    "title": "Cartogram",
+    "use": "Cartograms distort the shape of geographic regions so that the area directly encodes a data variable. A common example is to redraw every country in the world sizing it proportionally to population or GDP. Can be done by circles, squares or distorted maps by manipulating the initial map. Primarily used to visualize data related to countries, regions or states, for example votes in elections, population or income.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Pin Map",
+        "id": "pin-map"
+      },
+      {
+        "name": "Bubble Map",
+        "id": "bubble-map"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "geospatial"
+    ]
+  },
+  {
+    "id": "chord",
+    "image": true,
+    "title": "Chord Diagram",
+    "use": "This type of diagram visualises the inter-relationships between entities. Nodes are arranged in a circle, with the relationships between points represented proportionsly by the size of its connecting arc. Colour is used to identify different categories, which aids in making comparisons and distinguishing groups.",
+    "need": "To create this kind of chart, you'll need at least two variables from the same data set, with each variable corresponding to an attribute.",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "pro": "These work best for exploratory cases, where the user is encouraged to interact with the dataset.",
+    "con": "If a chart has too many connection, the diagram can become cluttered and difficult to comprehend at a glance. Too many colors may also make the chart inaccessible for colorblind users.",
+    "related": [
+      {
+        "name": "Arc Diagram",
+        "id": "arc-diagram"
+      },
+      {
+        "name": "Non-ribbon Chord Diagram",
+        "id": "non-ribbon"
+      },
+      {
+        "name": "Hive Plot",
+        "id": "hive"
+      },
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      }
+    ],
+    "alt": [
+      "Radial Convergences",
+      "Radial Network"
+    ],
+    "keywords": [
+      "relationships",
+      "comparisons"
+    ]
+  },
+  {
+    "id": "choropleth",
+    "image": true,
+    "title": "Choropleth Map",
+    "use": "A Choropleth Map is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable displayed.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Cartogram",
+        "id": "cartogram"
+      },
+      {
+        "name": "Heatmap",
+        "id": "heatmap"
+      }
+    ],
+    "pro": "The choropleth map provides an easy way to visualize how a measurement varies across a geographic area or it shows the level of variability within a region.",
+    "con": "",
+    "alt": [
+      "Choropleth Heatmap"
+    ],
+    "keywords": [
+      "comparisons",
+      "geospatial",
+      "patterns",
+      "distribution"
+    ]
+  },
+  {
+    "id": "circular-bar",
+    "image": true,
+    "title": "Circular Bar Chart",
+    "use": " Circular Bar Charts are used primarily for aesthetic reasons.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Radial Column Chart",
+        "id": "radial-column"
+      },
+      {
+        "name": "Radial Histogram",
+        "id": "radial-histogram"
+      },
+      {
+        "name": "Bar Chart",
+        "id": "bar-chart"
+      }
+    ],
+    "pro": "",
+    "con": "The bar lengths can be misinterpreted. Each bar on the outside gets relatively longer to the last, even if they represent the same value. This is because each bar has to be at a different radii, so each bar is judged by its angle.",
+    "alt": [
+      "Circular Column Graph",
+      "Curved Bar Chart"
+    ],
+    "keywords": [
+      "comparisons"
+    ]
+  },
+  {
+    "id": "cluster",
+    "image": true,
+    "title": "Cluster Analysis",
+    "use": "Cluster analysis or clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters).",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Scatterplot",
+        "id": "scatterplot"
+      },
+      {
+        "id": "dot-map",
+        "name": "Dot Map"
+      },
+      {
+        "id": "dot-plot",
+        "name": "Dot Plot"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Clustering"
+    ],
+    "keywords": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "condegram",
+    "image": true,
+    "title": "Condegram Plot",
+    "use": "A condegram is a timeline along a spiral shape. The spiral design makes it possible to compare cycles, but keeping the continuous timeline along the spiral.",
+    "need": "To populate this type of data visualization, you will need one discrete category covering a time range. One axis of the chart shows the specific category being compared, and the other axis represents a consistent period of time.",
+    "chart": "",
+    "related": [
+      {
+        "name": "Radial Column Chart",
+        "id": "radial-column"
+      },
+      {
+        "name": "Radial Histogram",
+        "id": "radial-histogram"
+      },
+      {
+        "name": "Bar Chart",
+        "id": "bar-chart"
+      }
+    ],
+    "data": "",
+    "variations": [],
+    "pro": "These are useful for at-a-glance comparisons across multiple time expanses; the shape conveys the information, and color can be minimized to reduce additional distraction on a dashboard.",
+    "con": "The larger the condegram, the more real estate it will require. For time ranges of two or fewer, the condegram is less efficient for conveying information compared to the real estate needed.",
+    "alt": [
+      "Horizon Chart",
+      "Time Series Spiral",
+      "Spiral Plot",
+      "Spiral Bar Chart"
+    ],
+    "keywords": [
+      "trends",
+      "patterns"
+    ]
+  },
+  {
+    "id": "connection-map",
+    "image": true,
+    "title": "Connection Map",
+    "use": "A Connection Map is used to display network combined with geographical data. It can be used for visualising flight connections, flow of import/export or migration, any kind of connections between different locations.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Cartogram",
+        "id": "cartogram"
+      },
+      {
+        "name": "Linear Process Diagram",
+        "id": "linear-process"
+      },
+      {
+        "id": "flowchart",
+        "name": "Flowchart"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Link Map",
+      "Ray Map",
+      "Flow Map"
+    ],
+    "keywords": [
+      "relationships",
+      "geospatial",
+      "concepts"
+    ]
+  },
+  {
+    "id": "contour",
+    "image": true,
+    "title": "Contour Plot",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Line Chart",
+        "id": "line"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "convex-tree",
+    "image": true,
+    "title": "Convex Treemap",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Treemap",
+        "id": "treemap"
+      },
+      {
+        "name": "Sunburst Chart",
+        "id": "sunburst"
+      },
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Voronoi Diagram",
+      "Polygonal partition"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution"
+    ]
+  },
+  {
+    "id": "cumulative-freq",
+    "image": true,
+    "title": "Cumulative Frequency",
+    "use": "A cumulative frequency graph is a visual representation of ranked categorical data.",
+    "need": "To populate this type of data visualization, you will need a time series with a variable that stays 1.) static and also 2.) accumulates over time in order to show the totals.",
+    "pro": "The cumulative frequency graph is useful in calculating the median and quartiles.",
+    "con": "",
+    "related": [
+      {
+        "name": "Line Chart",
+        "id": "line"
+      }
+    ],
+    "chart": "",
+    "alt": [],
+    "data": "",
+    "variations": [],
+    "keywords": [
+      "distribution",
+      "patterns",
+      "proportions",
+      "trends"
+    ]
+  },
+  {
+    "id": "cycle",
+    "image": true,
+    "title": "Cycle Diagram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Target Diagram",
+        "id": "target"
+      },
+      {
+        "name": "Linear Process Diagram",
+        "id": "linear-process"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Process Cycle"
+    ],
+    "keywords": [
+      "sequences",
+      "concepts"
+    ]
+  },
+  {
+    "id": "density",
+    "image": true,
+    "title": "Density Plot",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      },
+      {
+        "name": "Histogram",
+        "id": "histogram"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Kernel Density Plots",
+      "Density Trace Graph"
+    ],
+    "keywords": [
+      "distribution",
+      "patterns"
+    ]
+  },
+  {
+    "id": "donut",
+    "image": true,
+    "title": "Donut Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [
+      "semi-circle"
+    ],
+    "related": [
+      {
+        "name": "Waffle Chart",
+        "id": "waffle"
+      },
+      {
+        "name": "Pie chart",
+        "id": "pie-chart"
+      },
+      {
+        "name": "Gauge Chart",
+        "id": "gauge"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "proportions"
+    ]
+  },
+  {
+    "id": "dot-map",
+    "image": true,
+    "title": "Dot Map",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Cartogram",
+        "id": "cartogram"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Point Map",
+      "Dot Distribution Map",
+      "Dot Density Map",
+      "Dot Density Plot"
+    ],
+    "keywords": [
+      "distribution",
+      "geospatial",
+      "patterns"
+    ]
+  },
+  {
+    "id": "dot-matrix",
+    "image": true,
+    "title": "Dot Matrix Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Dot Plot",
+        "id": "dot-plot"
+      },
+      {
+        "name": "Matrix Diagram",
+        "id": "matrix"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "proportions",
+      "distribution",
+      "patterns"
+    ]
+  },
+  {
+    "id": "dot-plot",
+    "image": true,
+    "title": "Dot Plot",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Dot Matrix Chart",
+        "id": "dot-matrix"
+      },
+      {
+        "name": "Histogram",
+        "id": "histogram"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Strip Plot"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution"
+    ]
+  },
+  {
+    "id": "dumbbell",
+    "image": true,
+    "title": "Dumbbell Plot",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Lollipop Chart",
+        "id": "lollipop"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Connected Dot Plot",
+      "Dumbbell Dot Plot"
+    ],
+    "keywords": [
+      "comparisons"
+    ]
+  },
+  {
+    "id": "euler",
+    "image": true,
+    "title": "Euler Diagram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Venn Diagram",
+        "id": "venn"
+      },
+      {
+        "name": "Packed Bubble Chart",
+        "id": "packed-bubble"
+      },
+      {
+        "name": "Nested Bubbles",
+        "id": "nested-prop"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "concepts",
+      "comparisons"
+    ]
+  },
+  {
+    "id": "fishbone",
+    "image": true,
+    "title": "Fishbone Diagram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Taylor diagram",
+        "id": "taylor"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Ishikawa diagram",
+      "Cause-and-effect Diagram",
+      "Fishikawa",
+      "Herringbone Diagram"
+    ],
+    "keywords": [
+      "sequences",
+      "concepts"
+    ]
+  },
+  {
+    "id": "floating-bar",
+    "image": true,
+    "title": "Floating Bar Graph",
+    "use": "A Floating Bar graph is used to represent data values as a set of vertical bars. It is very similar to the Bar series with the main difference that the baseline position of each bar may be different.",
+    "need": "To populate this type of data visualization, you will need three mandatory series components: position, bar, and offset. The data in the first two components specify the positions and heights of the bars while the data in the last component specify the baseline positions of the bars.",
+    "pro": "Allows comparisons of data that have different baseline positions.",
+    "con": "The amount/type of data used in this chart is limited.",
+    "related": [
+      {
+        "name": "Bar Chart",
+        "id": "bar-chart"
+      },
+      {
+        "name": "Waterfall Chart",
+        "id": "waterfall"
+      }
+    ],
+    "chart": "",
+    "variations": [
+      "horizontal"
+    ],
+    "data": "",
+    "alt": [
+      "Range Column",
+      "Range Bar",
+      "Cylinder Chart",
+      "Span Chart",
+      "Column Range",
+      "Difference Graph",
+      "High-Low Graph"
+    ],
+    "keywords": [
+      "comparisons",
+      "trends",
+      "ranges"
+    ]
+  },
+  {
+    "id": "flowchart",
+    "image": true,
+    "title": "Flowchart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Swimlane Flow Chart",
+        "id": "swimlane"
+      },
+      {
+        "name": "Linear Process Diagram",
+        "id": "linear-process"
+      },
+      {
+        "name": "Target Diagram",
+        "id": "target"
+      },
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      },
+      {
+        "name": "Organisational chart",
+        "id": "org-chart"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Branching Process Diagram",
+      "Flow Process Chart",
+      "Process Chart",
+      "Process Model",
+      "Work Flow Diagram",
+      "Process Diagram Map"
+    ],
+    "keywords": [
+      "sequences",
+      "concepts",
+      "processes"
+    ]
+  },
+  {
+    "id": "gantt",
+    "image": true,
+    "title": "Gantt Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "pro": "",
+    "con": "",
+    "related": [
+      {
+        "name": "Bar Chart",
+        "id": "bar-chart"
+      },
+      {
+        "name": "Floating Bar Chart",
+        "id": "floating-bar"
+      },
+      {
+        "name": "Swimlane Flow Chart",
+        "id": "swimlane"
+      }
+    ],
+    "alt": [
+      "Timeline Bar"
+    ],
+    "keywords": [
+      "processes",
+      "sequences",
+      "trends",
+      "ranges",
+      "distribution"
+    ]
+  },
+  {
+    "id": "gauge",
+    "image": true,
+    "title": "Gauge Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Waffle Chart",
+        "id": "waffle"
+      },
+      {
+        "name": "Donut Chart",
+        "id": "donut"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Solid Gauge Chart"
+    ],
+    "keywords": [
+      "proportions",
+      "concepts"
+    ]
+  },
+  {
+    "id": "hanging-root",
+    "image": true,
+    "title": "Hanging Rootogram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Bar Chart",
+        "id": "bar-chart"
+      },
+      {
+        "name": "Floating Bar Chart",
+        "id": "floating-bar"
+      },
+      {
+        "name": "Histogram",
+        "id": "histogram"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "trends"
+    ]
+  },
+  {
+    "id": "heatmap",
+    "image": true,
+    "title": "Heatmap",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Radial Heatmap",
+        "id": "radial-heat"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Heat Table",
+      "Density Table"
+    ],
+    "keywords": [
+      "comparisons",
+      "patterns",
+      "distribution"
+    ]
+  },
+  {
+    "id": "hexagonal-bin",
+    "image": true,
+    "title": "Hexagonal Binning",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "related": [
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "variations": [],
+    "alt": [
+      "Hexagonal Bin Plot"
+    ],
+    "keywords": [
+      "distribution",
+      "comparisons"
+    ]
+  },
+  {
+    "id": "hierarchical-fan",
+    "image": true,
+    "title": "Hierarchical Fan Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Target Diagram",
+        "id": "target"
+      },
+      {
+        "name": "Organisational chart",
+        "id": "org-chart"
+      },
+      {
+        "name": "Sunburst Chart",
+        "id": "sunburst"
+      },
+      {
+        "id": "icicle",
+        "name": "Icicle Diagram"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Pedigree fan chart",
+      "Geneaology Fan Chart"
+    ],
+    "keywords": [
+      "concepts",
+      "hierarchies"
+    ]
+  },
+  {
+    "id": "histogram",
+    "image": true,
+    "title": "Histogram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Radial Histogram",
+        "id": "radial-histogram"
+      },
+      {
+        "name": "Density Plot",
+        "id": "density"
+      },
+      {
+        "name": "Bar Chart",
+        "id": "bar-chart"
+      },
+      {
+        "id": "hanging-root",
+        "name": "Hanging Rootogram"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "distribution",
+      "patterns",
+      "trends",
+      "ranges"
+    ]
+  },
+  {
+    "id": "hive",
+    "image": true,
+    "title": "Hive Plot",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      },
+      {
+        "name": "Chord Diagram",
+        "id": "chord"
+      },
+      {
+        "name": "Arc Diagram",
+        "id": "arc-diagram"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "distribution"
+    ]
+  },
+  {
+    "id": "horizon",
+    "image": true,
+    "title": "Horizon Chart",
+    "use": "Horizon charts show time-series data with both negative and positive values on the vertical scale, using coloring or shading to show negative values while transposing them above the baseline “horizon”. These charts are used to show over-time data for one or more entities (e.g., countries, products, industries),",
+    "need": "Best used when the data include both positive/growth and negative/contraction values, which would be difficult to represent clearly across many groups.",
+    "chart": "",
+    "data": "",
+    "related": [
+      {
+        "name": "Condegram Plot",
+        "id": "condegram"
+      },
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      },
+      {
+        "name": "Stacked Area Chart",
+        "id": "stacked-area"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "variations": [],
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "trends",
+      "proportions"
+    ]
+  },
+  {
+    "id": "icicle",
+    "image": false,
+    "title": "Icicle Diagram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      },
+      {
+        "name": "Sunburst Chart",
+        "id": "sunburst"
+      },
+      {
+        "name": "Treemap",
+        "id": "treemap"
+      },
+      {
+        "name": "Organisational chart",
+        "id": "org-chart"
+      },
+      {
+        "id": "hierarchical-fan",
+        "name": "Hierarchical Fan Chart"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Partition Layer Chart"
+    ],
+    "keywords": [
+      "distribution",
+      "proportions",
+      "hierarchies"
+    ]
+  },
+  {
+    "id": "icon",
+    "image": true,
+    "title": "Icon Count",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Pictogram",
+        "id": "pictogram"
+      },
+      {
+        "name": "Waffle Chart",
+        "id": "waffle"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "text"
+    ]
+  },
+  {
+    "id": "kagi",
+    "image": true,
+    "title": "Kagi chart",
+    "use": "A Kagi chart is a chart used for tracking price movements and to make decisions on purchasing stock. It differs from traditional stock charts such as the Candlestick chart by being mostly independent of time. This feature aids in producing a chart that reduces random noise.",
+    "need": "A Kagi chart is created with a series of vertical lines connected by short horizontal lines. The thickness and direction of the lines is based on the price of the underlying stock or asset. The thickness/color of the line changes when the price reaches the high or low of the previous vertical line; the direction of the line changes when the price reaches a preset reversal amount, which is usually set at 4%. When a direction change occurs, a short horizontal line is drawn between the lines of opposite direction.",
+    "pro": "",
+    "con": "",
+    "related": [
+      {
+        "name": "Open-High-Low-Close Chart",
+        "id": "open-high-low"
+      },
+      {
+        "name": "Line Chart",
+        "id": "line"
+      }
+    ],
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "alt": [
+      "Stepped Line Graph"
+    ],
+    "keywords": [
+      "patterns",
+      "ranges",
+      "comparisons"
+    ]
+  },
+  {
+    "id": "line",
+    "image": true,
+    "title": "Line Chart",
+    "use": "A line chart displays information as a series of data points called 'markers,' connected by straight line segments.This visualization is closely related to time series visualization, except that it is applied to data where the axes do not correspond to points in time, and therefore do not have a natural order. Therefore, different axis arrangements may be of interest.",
+    "need": "To populate this type of data visualization, you will need two data sets, typically a time-series axis and a variable.",
+    "pro": "This chart is simple to create and view, giving the end user the ability to quickly and easily discern patterns or outlying data points.",
+    "con": "",
+    "related": [
+      {
+        "name": "Scatterplot",
+        "id": "scatterplot"
+      }
+    ],
+    "chart": "",
+    "data": "",
+    "variations": [
+      "splined",
+      "curved",
+      "angular"
+    ],
+    "alt": [],
+    "keywords": [
+      "distribution",
+      "patterns",
+      "proportions",
+      "trends"
+    ]
+  },
+  {
+    "id": "linear-process",
+    "image": true,
+    "title": "Linear Process Diagram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Flowchart",
+        "id": "flowchart"
+      },
+      {
+        "name": "Swimlane Flow Chart",
+        "id": "swimlane"
+      },
+      {
+        "name": "Target Diagram",
+        "id": "target"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Flow Diagram",
+      "Process Map"
+    ],
+    "keywords": [
+      "sequences",
+      "concepts"
+    ]
+  },
+  {
+    "id": "lollipop",
+    "image": true,
+    "title": "Lollipop Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Bar Chart",
+        "id": "bar-chart"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "trends"
+    ]
+  },
+  {
+    "id": "marimekko",
+    "image": true,
+    "title": "Marimekko Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      },
+      {
+        "name": "Stacked Area Chart",
+        "id": "stacked-area"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Mosaic Plot",
+      "Mekko chart"
+    ],
+    "keywords": [
+      "comparisons",
+      "proportions",
+      "relationships"
+    ]
+  },
+  {
+    "id": "matrix",
+    "image": true,
+    "title": "Matrix Diagram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [
+      "Roof Shaped Matrix Diagram",
+      "Y-Shaped Matrix Diagram"
+    ],
+    "related": [
+      {
+        "name": "Adjacency Diagram",
+        "id": "adjacency"
+      },
+      {
+        "name": "Opposite Diagram",
+        "id": "opposite"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "concepts"
+    ]
+  },
+  {
+    "id": "mind-map",
+    "image": true,
+    "title": "Mind Map",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Target Diagram",
+        "id": "target"
+      },
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      },
+      {
+        "name": "Sunburst Chart",
+        "id": "sunburst"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Brainstorm"
+    ],
+    "keywords": [
+      "comparisons"
+    ]
+  },
+  {
+    "id": "multi-axis",
+    "image": true,
+    "title": "Multi-axis Line Chart",
+    "use": "A multi-axis line chart is an interactive line chart that can be configured for multiple axes. It is a special type of chart that allows multiple y-axes to be rendered in the same chart.",
+    "need": "To populate this type of data visualization, you will need multiple data sets, usually a time-series x-axis to compare to many variables on the y-axis.",
+    "pro": "The advantage of using a multi-axis line chart is that you can plot multiple data sets with different types of units. For example, 1-100 on one axis, 1m-100m on another axis, and 0-1 on yet another axis, on the same chart.",
+    "con": "",
+    "related": [
+      {
+        "name": "Line Chart",
+        "id": "line"
+      }
+    ],
+    "chart": "",
+    "data": "",
+    "alt": [],
+    "variations": [],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "patterns",
+      "trends"
+    ]
+  },
+  {
+    "id": "multilevel-donut",
+    "image": true,
+    "title": "Multilevel Donut",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Gauge Chart",
+        "id": "gauge"
+      },
+      {
+        "name": "Pie chart",
+        "id": "pie-chart"
+      },
+      {
+        "name": "Donut chart",
+        "id": "donut"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Exploded Donut Chart",
+      "Multi-series Donut Chart"
+    ],
+    "keywords": [
+      "comparisons"
+    ]
+  },
+  {
+    "id": "multiset-bar",
+    "image": true,
+    "title": "Multiset Bar Chart",
+    "use": "",
+    "need": "",
+    "related": [
+      {
+        "name": "Floating Bar Chart",
+        "id": "floating-bar"
+      },
+      {
+        "name": "Bar Chart",
+        "id": "bar-chart"
+      },
+      {
+        "id": "waterfall",
+        "name": "Waterfall Chart"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "chart": "",
+    "data": "",
+    "variations": [
+      "vertical",
+      "horizontal",
+      "grouped",
+      "stacked",
+      "floating",
+      "3D"
+    ],
+    "alt": [
+      "Grouped Bar Chart",
+      "Clustered Bar Chart",
+      "Stacked Bar Chart"
+    ],
+    "keywords": [
+      "comparisons",
+      "trends"
+    ]
+  },
+  {
+    "id": "nested-prop",
+    "image": true,
+    "title": "Nested Bubbles",
+    "alt": [
+      "Stacked proportions Area Chart",
+      "Nested proportions Area Chart"
+    ],
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Packed Bubble Chart",
+        "id": "packed-bubble"
+      },
+      {
+        "name": "Venn Diagram",
+        "id": "venn"
+      },
+      {
+        "name": "Euler Diagram",
+        "id": "euler"
+      },
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      },
+      {
+        "name": "Bubble Chart",
+        "id": "bubble"
+      },
+      {
+        "name": "Target Diagram",
+        "id": "target"
+      },
+      {
+        "name": "Sunburst Chart",
+        "id": "sunburst"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "keywords": [
+      "comparisons",
+      "proportions"
+    ]
+  },
+  {
+    "id": "nightingale",
+    "image": true,
+    "title": "Nightingale Rose Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Aster Plot",
+        "id": "aster"
+      },
+      {
+        "name": "Radar Chart",
+        "id": "radar"
+      },
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      },
+      {
+        "name": "Radial Column Chart",
+        "id": "radial-column"
+      }
+    ],
+    "pro": "",
+    "con": "The outer segments are given more emphasis because of their larger area size, which disproportionately represents increases in value. ",
+    "alt": [
+      "Coxcomb Chart",
+      "Rose chart"
+    ],
+    "keywords": [
+      "comparisons",
+      "patterns",
+      "distribution"
+    ]
+  },
+  {
+    "id": "node-link",
+    "image": true,
+    "title": "Node-Link Diagram",
+    "use": "",
+    "need": "To populate this type of data visualization, you will need ____.",
+    "pro": "When interactive, this diagram can encourage exploration to find insights and discover patterns hidden in the relationships.",
+    "con": "A mulit-level or complicated diagram can quickly become a lot of noise, even when interactive.",
+    "related": [
+      {
+        "name": "Treemap",
+        "id": "treemap"
+      },
+      {
+        "name": "Organisational chart",
+        "id": "org-chart"
+      },
+      {
+        "id": "icicle",
+        "name": "Icicle Diagram"
+      }
+    ],
+    "chart": "sdaForceDirect",
+    "data": "",
+    "variations": [
+      "undirected",
+      "directed",
+      "weighted"
+    ],
+    "alt": [
+      "Network Graph",
+      "Network Map",
+      "Hypertree",
+      "Hyperbolic Tree",
+      "Network Visualisation",
+      "Force Directed Graph",
+      "Sociogram",
+      "Clustered Force Layout",
+      "Ontology Visualization"
+    ],
+    "keywords": [
+      "concepts",
+      "comparisons",
+      "relationships",
+      "patterns",
+      "hierarchies"
+    ]
+  },
+  {
+    "id": "non-ribbon",
+    "image": true,
+    "title": "Non-ribbon Chord Diagram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Arc Diagram",
+        "id": "arc-diagram"
+      },
+      {
+        "name": "Chord Diagram",
+        "id": "chord"
+      },
+      {
+        "name": "Hive Plot",
+        "id": "hive"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "relationships",
+      "concepts"
+    ]
+  },
+  {
+    "id": "open-high-low",
+    "image": true,
+    "title": "Open-High-Low-Close Chart",
+    "use": "An OHLC chart shows a moving average, with Bollinger bands superimposed. An open-high-low-close chart (also OHLC) is a type of chart typically used to illustrate movements in the price of a financial instrument over time.",
+    "need": "To populate this type of data visualization, you will need a time series, with comparison to volume, open, high, lose and close data.",
+    "pro": "More information is available, showing the range of the days trading.",
+    "con": "No opening price is reflected in this chart.  The opening price is important as it allows us to immediately see if the price gapped up or down on open, and also where the closing price is in relation to the opening price.",
+    "related": [
+      {
+        "name": "Floating Bar Chart",
+        "id": "floating-bar"
+      }
+    ],
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "alt": [
+      "OHLC Chart",
+      "Price Chart"
+    ],
+    "keywords": [
+      "patterns",
+      "trends",
+      "ranges"
+    ]
+  },
+  {
+    "id": "opposite",
+    "image": true,
+    "title": "Opposite Diagram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Matrix Diagram",
+        "id": "matrix"
+      },
+      {
+        "name": "Adjacency Diagram",
+        "id": "adjacency"
+      },
+      {
+        "name": "Dot Plot",
+        "id": "dot-plot"
+      },
+      {
+        "name": "Dot Matrix Chart",
+        "id": "dot-matrix"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "2x2 Diagram",
+      "2x2 Matrix"
+    ],
+    "keywords": [
+      "comparisons",
+      "concepts"
+    ]
+  },
+  {
+    "id": "org-chart",
+    "image": true,
+    "title": "Organisational chart",
+    "use": "This chart displays hierarchical data with a visual similar to flowcharts. A leaf node may also be colored to show a separate dimension of the data.",
+    "need": "To populate this type of data visualization, you will need comparable categories with parent-child connections.",
+    "pro": "These maps are great at indicating hierarchical relationships.",
+    "con": "Excessive data can make this chart hard to read and confusing.",
+    "related": [
+      {
+        "name": "Treemap",
+        "id": "treemap"
+      },
+      {
+        "name": "Packed Bubble Chart",
+        "id": "packed-bubble"
+      },
+      {
+        "name": "Sunburst Chart",
+        "id": "sunburst"
+      },
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      }
+    ],
+    "chart": "",
+    "data": "../static/flare.json",
+    "variations": [],
+    "alt": [
+      "Dendrogram",
+      "Linkage Tree"
+    ],
+    "keywords": [
+      "relationships",
+      "concepts",
+      "hierarchies"
+    ]
+  },
+  {
+    "id": "packed-bubble",
+    "image": true,
+    "title": "Packed Bubble Chart",
+    "use": "This chart displays data in a cluster of circles, providing an easy view of relationships between different variables.",
+    "need": "To populate this type of data visualization, you will need to define the individual bubbles, and measures to define the size and/or color of the individual circles.",
+    "pro": "These are a relatively simple data visualization that can provide insight in a visually attractive format.",
+    "con": "Excessive data can lead to too many bubbles, cluttering a view.",
+    "related": [
+      {
+        "name": "Target Diagram",
+        "id": "target"
+      },
+      {
+        "name": "Nested Bubbles",
+        "id": "nested-prop"
+      },
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      }
+    ],
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "alt": [
+      "Circular Treemap",
+      "Circle Packing Diagram",
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      }
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "patterns",
+      "proportions",
+      "hierarchies"
+    ]
+  },
+  {
+    "id": "parallel-coord",
+    "image": true,
+    "title": "Parallel Coordinates Diagram",
+    "use": "Parallel coordinates are a common way of visualizing high-dimensional geometry and analyzing multivariate data. This visualization is closely related to time series visualization, except that it is applied to data where the axes do not correspond to points in time, and therefore do not have a natural order. Therefore, different axis arrangements may be of interest.",
+    "need": "You'll need to show a set of points in an n-dimensional space, with a backdrop of n parallel lines, typically vertical and equally spaced. A point in n-dimensional space is represented as a polyline with vertices on the parallel axes; the position of the vertex on the i-th axis corresponds to the i-th coordinate of the point.",
+    "pro": "These are ideal for comparing many variables together and seeing the relationships between them. For example, if you had to compare an array of products with the same attributes (comparing computer or cars specs across different models).",
+    "con": "The downside to Parallel Coordinates Plots is that they can become over-cluttered, and therefore illegible when they’re very data-dense.",
+    "related": [
+      {
+        "name": "Bump Chart",
+        "id": "bump"
+      },
+      {
+        "name": "Slopegraph",
+        "id": "slopegraph"
+      }
+    ],
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "relationships",
+      "patterns"
+    ]
+  },
+  {
+    "id": "pareto",
+    "image": true,
+    "title": "Pareto Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "related": [
+      {
+        "name": "Line Chart",
+        "id": "line"
+      },
+      {
+        "name": "Bar Chart",
+        "id": "bar-chart"
+      }
+    ],
+    "variations": [],
+    "alt": [],
+    "pro": "",
+    "con": "",
+    "keywords": [
+      "comparisons",
+      "distribution"
+    ]
+  },
+  {
+    "id": "pictogram",
+    "image": true,
+    "title": "Pictogram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Icon Count",
+        "id": "icon"
+      },
+      {
+        "name": "Waffle Chart",
+        "id": "waffle"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Pictogram Bar Chart",
+      "Pictograph Chart",
+      "Pictorial Chart",
+      "Pictorial Unit Chart",
+      "Picture Graph"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution"
+    ]
+  },
+  {
+    "id": "pie",
+    "image": true,
+    "title": "Pie Chart",
+    "use": "A pie chart is a circular statistical graphic which is divided into slices to illustrate numerical proportion. In a pie chart, the arc length of each slice (and consequently its central angle and area), is proportions to the quantity it represents. If the center is removed, the chart is a donut variation, which allows for additional textual information in the center.",
+    "need": "To populate this type of data visualization, you will need a rang of categories compared to a similar variable.",
+    "pro": "Easy to create, use, and understand.",
+    "con": "Research has shown it is difficult to compare different sections of a given pie chart, or to compare data across different pie chart.",
+    "related": [
+      {
+        "name": "Gauge Chart",
+        "id": "gauge"
+      },
+      {
+        "name": "Donut Chart",
+        "id": "donut"
+      },
+      {
+        "name": "Sunburst Chart",
+        "id": "sunburst"
+      },
+      {
+        "name": "Aster Plot",
+        "id": "aster"
+      },
+      {
+        "name": "Nightingale Rose Chart",
+        "id": "nightingale"
+      }
+    ],
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "alt": [
+      "Circle Chart"
+    ],
+    "keywords": [
+      "comparisons",
+      "proportions"
+    ]
+  },
+  {
+    "id": "pin-map",
+    "image": true,
+    "title": "Pin Map",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Bar Chart Map",
+        "id": "bar-map"
+      },
+      {
+        "name": "Bubble Map",
+        "id": "bubble-map"
+      },
+      {
+        "name": "Cartogram",
+        "id": "cartogram"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "geospatial"
+    ]
+  },
+  {
+    "id": "point-and-figure",
+    "image": true,
+    "title": "Point & Figure Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Renko chart",
+        "id": "renko"
+      },
+      {
+        "name": "Matrix Diagram",
+        "id": "matrix"
+      },
+      {
+        "name": "Bivariate Area Chart",
+        "id": "bivariate"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "P&F Chart"
+    ],
+    "keywords": [
+      "patterns",
+      "ranges",
+      "trends",
+      "comparisons"
+    ]
+  },
+  {
+    "id": "population-pyr",
+    "image": true,
+    "title": "Population Pyramid",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Pyramid Diagram",
+        "id": "pyramid"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Age & Sex Pyramid",
+      "Age Pyramid",
+      "Age Picture Diagram"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "patterns"
+    ]
+  },
+  {
+    "id": "proportional-area",
+    "image": true,
+    "title": "Proportional Area Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      },
+      {
+        "name": "Nested Bubbles",
+        "id": "nested-prop"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Proportional Area Chart, Circle",
+      "Proportional Area Chart, Half Circle",
+      "Proportional Area chart, Square"
+    ],
+    "keywords": [
+      "comparisons",
+      "proportions"
+    ]
+  },
+  {
+    "id": "pyramid",
+    "image": true,
+    "title": "Pyramid Diagram",
+    "use": "If inverted, it's a Funnel Chart.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      },
+      {
+        "name": "Population Pyramid",
+        "id": "population-pyr"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Funnel Chart"
+    ],
+    "keywords": [
+      "proportions",
+      "concepts"
+    ]
+  },
+  {
+    "id": "radar",
+    "image": true,
+    "title": "Radar Chart",
+    "use": "A radar chart is a graphical method of displaying multivariate data in the form of a two-dimensional chart of three or more quantitative variables represented on axes starting from the same point. The relative position and angle of the axes is typically uninformative.",
+    "need": "Each category or interval in the data is divided into equal segments on this radial chart. How far each segment extends from the centre of the polar axis depends on the value it represents. So each ring from the centre of the polar grid can be used as a scale to plot the segment size and represent a higher value. Therefore, it’s important to notice with Nightingale Rose Charts that it’s the area, rather than the radius of a segment that represents its value.",
+    "pro": "Radar charts are a useful way to display multivariate observations with an arbitrary number of variables. Each star represents a single observation.",
+    "con": "Radar charts are poorly suited for making trade-off decisions, or where the user needs to compare lengths of different spokes. Instead, use a simple line graph, particularly for time series.",
+    "related": [
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      },
+      {
+        "name": "Aster Plot",
+        "id": "aster"
+      },
+      {
+        "name": "Radial Column Chart",
+        "id": "radial-column"
+      }
+    ],
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "alt": [
+      "Spider Chart",
+      "Web Chart",
+      "Polar Chart",
+      "Star Plots",
+      "Cobweb Chart",
+      "Radial Area Chart",
+      "Polar Area Chart"
+    ],
+    "keywords": [
+      "comparisons",
+      "patterns",
+      "distribution"
+    ]
+  },
+  {
+    "id": "radial-column",
+    "image": true,
+    "title": "Radial Column Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Circular Bar Chart",
+        "id": "circular-bar"
+      },
+      {
+        "name": "Floating Bar Chart",
+        "id": "floating-bar"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Radial Bar Chart"
+    ],
+    "keywords": [
+      "trends",
+      "comparisons",
+      "distribution",
+      "proportions"
+    ]
+  },
+  {
+    "id": "radial-heat",
+    "image": true,
+    "title": "Radial Heatmap",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Heatmap",
+        "id": "heatmap"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Circular Heatmap"
+    ],
+    "keywords": [
+      "comparisons",
+      "patterns",
+      "distribution"
+    ]
+  },
+  {
+    "id": "radial-histogram",
+    "image": true,
+    "title": "Radial Histogram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Histogram",
+        "id": "histogram"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Star Graph",
+      "Angular Histogram",
+      "Circular Histogram",
+      "Polar Histogram"
+    ],
+    "keywords": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "radial-line",
+    "image": true,
+    "title": "Radial Line Graph",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Radar Chart",
+        "id": "radar"
+      },
+      {
+        "name": "Line Chart",
+        "id": "line"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Polar line chart"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution"
+    ]
+  },
+  {
+    "id": "range-area",
+    "image": true,
+    "title": "Range Area Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Angular Range"
+    ],
+    "keywords": [
+      "distribution",
+      "proportions"
+    ]
+  },
+  {
+    "id": "renko",
+    "image": true,
+    "title": "Renko chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Point & Figure Chart",
+        "id": "point-and-figure"
+      },
+      {
+        "name": "Floating Bar Chart",
+        "id": "floating-bar"
+      },
+      {
+        "name": "Bivariate Area Chart",
+        "id": "bivariate"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "trends"
+    ]
+  },
+  {
+    "id": "sankey",
+    "image": true,
+    "title": "Sankey Diagram",
+    "use": "A Sankey consists of directed arrows or bands whose widths reflect a flow's volume from node to node. Most commonly, the bands run horizontally from node to node, and each band may or may not be incident to a node at each horizontal position.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "related": [
+      {
+        "name": "Alluvial Diagram",
+        "id": "alluvial"
+      },
+      {
+        "name": "Line Chart",
+        "id": "line"
+      },
+      {
+        "name": "Parallel Coordinates Diagram",
+        "id": "parallel-coord"
+      },
+      {
+        "name": "Slopegraph",
+        "id": "slopegraph"
+      }
+    ],
+    "pro": "The diagram can be quite flexible, as the locations of nodes are not pre-determined, and arrows can turn to point up and down as well as sideways.",
+    "con": "",
+    "variations": [
+      "hierarchical"
+    ],
+    "alt": [
+      "Parallel Sets"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "trends",
+      "proportions"
+    ]
+  },
+  {
+    "id": "scatterplot",
+    "image": true,
+    "title": "Scatterplot",
+    "use": "The scatter diagram or scatter plot is the workhorse bivariate plot, and is probably the most common plot type (and the default plot method in R). A scatter plot displays the values of two variables at a time using symbols, where the value of one variable determines the relative position of the symbol along the X-axis and the value of a second variable determines the relative position of the symbol along the Y-axis.",
+    "need": "This chart requires a one dataset, with comparisons variables based on attributes. The response variable is plotted on the vertical or Y-axis, and the independent (or predictor) variable on the horizontal or X-axis.",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "pro": "",
+    "con": "",
+    "related": [
+      {
+        "name": "Trendline",
+        "id": "trendline"
+      }
+    ],
+    "alt": [
+      "Scatter Graph",
+      "Point Graph",
+      "X-Y Plot",
+      "Scatter Chart",
+      "Scattergram",
+      "Scatter Diagram",
+      "Bivariate Plot"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "relationships",
+      "patterns"
+    ]
+  },
+  {
+    "id": "slopegraph",
+    "image": true,
+    "title": "Slopegraph",
+    "use": "A Slopegraph compares multiple sets of data points, on parallel vertical scales, connecting each pair by a line. The slope of the line shows the degree of difference between each side of the pair. The ladder graph variant compares the forced ranking of multiple variables among two groups; a slopegraph shows a progression of univariate data among multiple actors over time.",
+    "need": "Slopegraphs generally require that values be available for each group and for each category to show the full extent of changes from one category to the other. To populate this type of data visualization, you will need multiple sets of comparable pairs of data, eg. rankings of soccer clubs within their league at two different points of time.",
+    "pro": "Slopegraphs are a great means for comparing data point, often between two points in time, but also on other dimensions.",
+    "con": "If you have too much data (a number of data pairs that have significant change) the numbers bunch up and the chart becomes unreadable.",
+    "related": [
+      {
+        "name": "Parallel Coordinates Diagram",
+        "id": "parallel-coord"
+      },
+      {
+        "name": "Bump Chart",
+        "id": "bump"
+      },
+      {
+        "name": "Line Chart",
+        "id": "line"
+      }
+    ],
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "alt": [
+      "Ladder Graph",
+      "Forced-rank Parallel Coordinates Plot"
+    ],
+    "keywords": [
+      "comparisons",
+      "trends"
+    ]
+  },
+  {
+    "id": "sparkline",
+    "image": false,
+    "title": "Sparkline",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [
+      "columned",
+      "win-loss"
+    ],
+    "related": [
+      {
+        "name": "Line Chart",
+        "id": "line"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "trends"
+    ]
+  },
+  {
+    "id": "stacked-area",
+    "image": true,
+    "title": "Stacked Area Chart",
+    "use": "",
+    "pro": "",
+    "con": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [
+      "stacked",
+      "ordered",
+      "expanded"
+    ],
+    "related": [
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      },
+      {
+        "name": "Marimekko Chart",
+        "id": "marimekko"
+      },
+      {
+        "name": "Bivariate Area Chart",
+        "id": "bivariate"
+      }
+    ],
+    "alt": [
+      "Ribbon Chart"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "patterns",
+      "trends",
+      "proportions"
+    ]
+  },
+  {
+    "id": "stem-leaf",
+    "image": true,
+    "title": "Stem & Leaf Plot",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Matrix Diagram",
+        "id": "matrix"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Stemplot",
+      "Stem & Leaf Display"
+    ],
+    "keywords": [
+      "distribution"
+    ]
+  },
+  {
+    "id": "stream",
+    "image": true,
+    "title": "Streamgraph",
+    "use": "Streamgraphs show how the size or proportions of groups vary over time, with vertical width of the “stream” representing the size of that entity. Streamgraphs can use either a fixed scale, where change in the overall size of all groups can be seen, or a relative scale, where all groups consistently add to 100% (similar to an area chart).",
+    "need": "",
+    "chart": "",
+    "related": [
+      {
+        "name": "Sankey Diagram",
+        "id": "sankey"
+      },
+      {
+        "name": "Alluvial Diagram",
+        "id": "alluvial"
+      },
+      {
+        "name": "Stacked Area Chart",
+        "id": "stacked-area"
+      },
+      {
+        "name": "Area Chart",
+        "id": "area-chart"
+      }
+    ],
+    "pro": "Streamgraphs can depict major shifts in cultural influences, technological trends, and economic forces over time — how quickly certain groups emerge while others fade away.",
+    "con": "",
+    "data": "",
+    "variations": [
+      "sorted",
+      "3D"
+    ],
+    "alt": [
+      "ThemeRiver"
+    ],
+    "keywords": [
+      "patterns",
+      "trends",
+      "comparisons",
+      "distribution"
+    ]
+  },
+  {
+    "id": "sunburst",
+    "image": true,
+    "title": "Sunburst Chart",
+    "use": "Sunbursts are a set of concentric rings. The size of each item represents its contribution to the inner parent category.",
+    "need": "To populate this type of data visualization, start with a single item that is put as a circle in the center. To see the breakup of that item, a concentric ring is set around the central circle. The concentric ring is then segmented to show how various child items have contributed to the parent item. To see the breakup of each of these child items, another concentric ring is set up. Since we want to see the breakup of the child items, the new ring will already be segmented the same way as the first ring. Within these segments, further segmentation is done to see the break-up of each of the child items in turn. And this process can continue till required.",
+    "pro": "Shows multiple layers of relationship from a single data point or categories; if interactive, smaller elements can be explored, which might have been lost in a simple pie chart.",
+    "con": "If the sunburst requires interaction to open lower layers, this behavior may not be immediately intuitive to a new user.",
+    "related": [
+      {
+        "name": "Pie chart",
+        "id": "pie-chart"
+      },
+      {
+        "name": "Treemap",
+        "id": "treemap"
+      },
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      },
+      {
+        "name": "Organisational chart",
+        "id": "org-chart"
+      },
+      {
+        "id": "icicle",
+        "name": "Icicle Diagram"
+      }
+    ],
+    "chart": "sdaSunburst",
+    "data": "../static/flare.json",
+    "alt": [
+      "Ring Chart",
+      "Multi-level Pie Chart",
+      "Belt Chart",
+      "Radial Treemap"
+    ],
+    "keywords": [
+      "hierarchies",
+      "proportions",
+      "comparisons",
+      "distribution"
+    ]
+  },
+  {
+    "id": "swimlane",
+    "image": true,
+    "title": "Swimlane Flow Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Linear Process Diagram",
+        "id": "linear-process"
+      },
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      },
+      {
+        "name": "Flowchart",
+        "id": "flowchart"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Cross-functional-diagram"
+    ],
+    "keywords": [
+      "sequences",
+      "concepts",
+      "processes"
+    ]
+  },
+  {
+    "id": "target",
+    "image": true,
+    "title": "Target Diagram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Cycle Diagram",
+        "id": "cycle"
+      },
+      {
+        "name": "Hierarchical Fan Chart",
+        "id": "hierarchical-fan"
+      },
+      {
+        "name": "Linear Process Diagram",
+        "id": "linear-process"
+      },
+      {
+        "name": "Time Series Fan Chart",
+        "id": "time-series-fan"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "sequences",
+      "concepts",
+      "hierarchies",
+      "processes"
+    ]
+  },
+  {
+    "id": "taylor",
+    "image": false,
+    "title": "Taylor diagram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Fishbone Diagram",
+        "id": "fishbone"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "concepts"
+    ]
+  },
+  {
+    "id": "time-series-fan",
+    "image": true,
+    "title": "Time Series Fan Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Hierarchical Fan Chart",
+        "id": "hierarchical-fan"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "trends"
+    ]
+  },
+  {
+    "id": "timeline",
+    "image": true,
+    "title": "Timeline",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [
+      "scaled",
+      "sequences"
+    ],
+    "related": [
+      {
+        "name": "Bubble Timeline",
+        "id": "bubble-time"
+      },
+      {
+        "name": "Condegram Plot",
+        "id": "condegram"
+      },
+      {
+        "name": "Swimlane Flow Chart",
+        "id": "swimlane"
+      },
+      {
+        "name": "Target Diagram",
+        "id": "target"
+      },
+      {
+        "name": "Linear Process Diagram",
+        "id": "linear-process"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Development & Causes",
+      "Sequential Graph"
+    ],
+    "keywords": [
+      "concepts",
+      "sequences"
+    ]
+  },
+  {
+    "id": "treemap",
+    "image": true,
+    "title": "Treemap",
+    "use": "Tree mapping is a method for displaying hierarchical data using nested figures, usually rectangles. Each branch of the tree is given a rectangle, which is then tiled with smaller rectangles representing sub-branches. A leaf node's rectangle has an area proportions to a specified dimension of the data. Often the leaf nodes are colored to show a separate dimension of the data.",
+    "need": "To populate this type of data visualization, you will need comparable categories with multiple variables to give the rectangles their shape, size, and color.",
+    "pro": "Treemaps a more compact and space-efficient option for displaying hierarchies, that gives a quick overview of the structure. Treemaps are also great at comparing the proportions between categories via their area size.",
+    "con": "Excessive data can make this chart hard to read and confusing.",
+    "related": [
+      {
+        "name": "Convex Treemap",
+        "id": "convex-tree"
+      },
+      {
+        "name": "Sunburst Chart",
+        "id": "sunburst"
+      },
+      {
+        "name": "Packed Bubble Chart",
+        "id": "packed-bubble"
+      },
+      {
+        "name": "Hierarchical Fan Chart",
+        "id": "hierarchical-fan"
+      },
+      {
+        "name": "Node-Link Diagram",
+        "id": "node-link"
+      },
+      {
+        "name": "Organisational chart",
+        "id": "org-chart"
+      },
+      {
+        "id": "icicle",
+        "name": "Icicle Diagram"
+      }
+    ],
+    "chart": "sdaTreemap",
+    "data": "../static/flare.json",
+    "variations": [],
+    "alt": [],
+    "keywords": [
+      "relationships",
+      "proportions",
+      "hierarchies"
+    ]
+  },
+  {
+    "id": "trendline",
+    "image": true,
+    "title": "Trendline",
+    "use": "A trendline is a linear approach for showing the trending movement within data. When treated as a linear regression, it models the relationship between a scalar-dependent variable and one or more independent variables.",
+    "need": "You will need a scalar dependent variable y and one or more explanatory variables denoted X.",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [],
+    "pro": "Good for data that follows a linear trend or has a strong/dominant linear component.",
+    "con": "These charts impose rather strong constraints on the solution space, and so can add more error via bias than they remove via variance reduction.",
+    "alt": [
+      "Linear Regression"
+    ],
+    "keywords": [
+      "relationships",
+      "comparisons",
+      "distribution",
+      "patterns",
+      "trends"
+    ]
+  },
+  {
+    "id": "uniform",
+    "image": true,
+    "title": "Uniform/Normal Distribution",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "alt": [],
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Line Chart",
+        "id": "line"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "keywords": [
+      "comparisons",
+      "distribution",
+      "patterns",
+      "ranges"
+    ]
+  },
+  {
+    "id": "venn",
+    "image": true,
+    "title": "Venn Diagram",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Packed Bubble Chart",
+        "id": "packed-bubble"
+      },
+      {
+        "name": "Euler Diagram",
+        "id": "euler"
+      },
+      {
+        "name": "Nested Bubbles",
+        "id": "nested-prop"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Set Diagram"
+    ],
+    "keywords": [
+      "relationships",
+      "concepts",
+      "comparisons"
+    ]
+  },
+  {
+    "id": "violin",
+    "image": true,
+    "title": "Violin Plot",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [],
+    "pro": "",
+    "con": "",
+    "alt": [],
+    "keywords": [
+      "distribution",
+      "patterns",
+      "comparisons",
+      "ranges"
+    ]
+  },
+  {
+    "id": "waffle",
+    "image": true,
+    "title": "Waffle Chart",
+    "use": "This chart excels at visualizing parts-to-whole contribution or some percentage of KPI attainment, better than an isolated metric. Best for comparing high-level items or seeing how they contribute to a whole, placing increased emphasis on the part of the whole, or using KPI charts as % of total.",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Donut Chart",
+        "id": "donut"
+      },
+      {
+        "name": "Gauge Chart",
+        "id": "gauge"
+      },
+      {
+        "name": "Pictogram",
+        "id": "pictogram"
+      },
+      {
+        "name": "Icon Count",
+        "id": "icon"
+      }
+    ],
+    "pro": "",
+    "con": "Inappropriate for cases where many values contribute to a whole, a KPI could exceed 100%, or when exact percentages are vital.",
+    "alt": [],
+    "keywords": [
+      "comparisons",
+      "proportions"
+    ]
+  },
+  {
+    "id": "waterfall",
+    "image": true,
+    "title": "Waterfall Chart",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [
+      {
+        "name": "Floating Bar Chart",
+        "id": "floating-bar"
+      }
+    ],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Flying Bricks Chart",
+      "Mario Chart"
+    ],
+    "keywords": [
+      "comparisons",
+      "distribution"
+    ]
+  },
+  {
+    "id": "word",
+    "image": true,
+    "title": "Word Cloud",
+    "use": "",
+    "need": "",
+    "chart": "",
+    "data": "",
+    "variations": [],
+    "related": [],
+    "pro": "",
+    "con": "",
+    "alt": [
+      "Tag Cloud"
+    ],
+    "keywords": [
+      "proportions",
+      "distribution",
+      "text",
+      "comparisons"
+    ]
+  }
+]

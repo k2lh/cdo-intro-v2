@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>kagi</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kagi" transform="translate(1.000000, 0.000000)">
+            <polyline id="Rectangle" stroke="#5596E6" points="80 80 0 80 0 0"></polyline>
+            <polyline id="Rectangle-2" stroke="#5596E6" stroke-width="2" points="10.0230308 54.8920282 10.0031114 48.5 3 48.5 3 70.767666 3 70.767666"></polyline>
+            <polyline id="Rectangle-2" stroke="#5596E6" stroke-width="2" points="8.98844414 54.928452 19 55 19 24 27.5 24 27.5 33 36 33 36 24 44.5 24 44.5720766 33.4377151 53 33.5 53 15 61.5 15 61.5 50.5 70.5 50.5 70.5 41.5 78.5 41.5"></polyline>
+            <rect id="Rectangle-3" fill="#FFFFFF" fill-rule="nonzero" opacity="0.501116071" x="8" y="51" width="16" height="10"></rect>
+            <rect id="Rectangle-3" fill="#FFFFFF" fill-rule="nonzero" opacity="0.501116071" x="16" y="38" width="16" height="13"></rect>
+            <rect id="Rectangle-3" fill="#FFFFFF" fill-rule="nonzero" opacity="0.501116071" x="58" y="34" width="22" height="20"></rect>
+            <rect id="Rectangle-3" fill="#FFFFFF" fill-rule="nonzero" opacity="0.501116071" x="25" y="32" width="31" height="13"></rect>
+            <rect id="Rectangle-3" fill="#FFFFFF" fill-rule="nonzero" opacity="0.501116071" x="32" y="23" width="23" height="9"></rect>
+        </g>
+    </g>
+</svg>

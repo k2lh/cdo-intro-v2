@@ -1,0 +1,104 @@
+.home-container {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  max-height: 100vh;
+}
+
+.main-header {
+  background-color: $blue-30;
+  // height: 60vh;
+  // left: em(250px);
+  padding: 40px 120px;
+  // position: relative;
+  // width: calc(100% - 250px);
+
+
+  &__nav {
+    display: flex;
+    justify-content: space-between;
+
+    .search__icon {
+      height: em(20px);
+      width: em(20px);
+
+      &:hover {
+        cursor: pointer;
+      }
+    }
+
+    .login a {
+      color: #1D3649;
+      font-size: rem(14px);
+
+      &:hover {
+        color: #fff;
+      }
+    }
+  }
+}
+
+.content__logo {
+  font-size: 64px;
+  font-weight: lighter;
+  line-height: 1;
+  padding: 35px 0;
+
+  span {
+    display: block;
+    font-weight: bold;
+  }
+}
+
+.content__description {
+  color: #1D3649;
+  min-width: em(375px);
+  padding-bottom: 1em;
+  width: 60%;
+}
+
+.content__buttons {
+
+  button {
+    background-color: $color-white;
+    border: 0;
+    color: #1D3649;
+    height: em(35px);
+    text-align: left;
+    width: em(150px);
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  .all-endpoints {
+    background-image: url('../images/next_32.svg');
+    background-position: 95%;
+    background-repeat: no-repeat;
+    background-size: em(24px);
+    margin-right: em(26px);
+    padding-left: 1em;
+  }
+
+  .add-endpoint {
+    background-image: url('../images/add-new_32.svg');
+    background-position: 95%;
+    background-repeat: no-repeat;
+    background-size: em(24px);
+    padding-left: 1em;
+  }
+}
+
+.overview {
+  background-color: $color-white;
+  // height: 40vh;
+
+  &__description {
+    color: #1D3649;
+    float: right;
+    font-size: rem(14px);
+    padding: 80px 75px 0 0;
+    width: 50%;
+  }
+}

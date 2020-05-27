@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>trendline</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="trendline">
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="15.7153623" cy="64.7575385" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="20.4898551" cy="52.9323077" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="33.0255072" cy="66.0092308" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="35.6782609" cy="45.5476923" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="44.875942" cy="54.7464615" r="3"></circle>
+            <path d="M71.7484058,62.8148963 C71.7484058,64.4727134 70.4029423,65.8178462 68.7476682,65.8178462 C67.0894434,65.8178462 65.7484058,64.4727134 65.7484058,62.8148963 C65.7484058,61.161504 67.0894434,59.8178462 68.7476682,59.8178462 C70.4029423,59.8178462 71.7484058,61.161504 71.7484058,62.8148963 Z" id="Shape" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964"></path>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="45.2284058" cy="30.5286154" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="29.1344928" cy="25.0861538" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="54.4249275" cy="39.7273846" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="46.2892754" cy="39.352" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="27.8973913" cy="39.7273846" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="34.6162319" cy="54.9323077" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="60.6115942" cy="14.0104615" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="68.04" cy="28.088" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="56.3681159" cy="25.2732308" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="74.2301449" cy="15.3236923" r="3"></circle>
+            <circle id="Oval" fill="#5596E6" fill-rule="nonzero" opacity="0.496316964" cx="68.9176812" cy="5.37661538" r="3"></circle>
+            <polyline id="Shape" stroke="#5596E6" stroke-linecap="round" points="0.553043478 0.747076923 0.553043478 78.8418462 79.7773913 78.8418462"></polyline>
+            <path d="M8.5,71.5 L78.5,1.5" id="Line" stroke="#5596E6" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

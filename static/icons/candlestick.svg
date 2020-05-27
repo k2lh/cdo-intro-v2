@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>candlestick</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="candlestick">
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="0.831" y="19.01" width="7.31" height="46.7825"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="29.545" y="30.1625" width="7.311" height="26.335"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="72.466" y="11.57375" width="7.312" height="30.0525"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="58.171" y="30.1625" width="7.311" height="43.685"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="44.121" y="18.39" width="7.311" height="15.18125"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="15.206" y="36.97875" width="7.31" height="10.8425"></rect>
+            <path d="M4.486,21.17625 L4.486,3.20625" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.504910714"></path>
+            <path d="M4.486,73.23 L4.486,60.21375" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.504910714"></path>
+            <path d="M18.861,65.32875 L18.861,9.7925" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.504910714"></path>
+            <path d="M33.201,54.40625 L33.201,64.16625" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.504910714"></path>
+            <path d="M33.201,32.565 L33.201,24.5875" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.504910714"></path>
+            <path d="M47.776,12.34875 L47.776,79.03625" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.504910714"></path>
+            <path d="M61.827,77.87625 L61.827,0.9625" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.504910714"></path>
+            <path d="M76.121,6.075 L76.121,53.245" id="Shape" stroke="#5596E6" stroke-width="2" opacity="0.504910714"></path>
+        </g>
+    </g>
+</svg>

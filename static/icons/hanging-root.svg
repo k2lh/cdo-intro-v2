@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="80px" viewBox="0 0 83 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>histogram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="histogram" transform="translate(1.000000, 0.000000)">
+            <g id="Group-6" transform="translate(51.000000, 44.000000)" fill="#5596E6">
+                <rect id="Rectangle-path" fill-rule="nonzero" x="0.5232141" y="4" width="8.57142857" height="19"></rect>
+                <circle id="Oval" cx="5" cy="2" r="2"></circle>
+            </g>
+            <g id="Group-6" transform="translate(41.000000, 23.000000)" fill="#5596E6">
+                <rect id="Rectangle-path" fill-rule="nonzero" x="0.5232141" y="4" width="8.57142857" height="47"></rect>
+                <circle id="Oval" cx="5" cy="2" r="2"></circle>
+            </g>
+            <g id="Group-6" transform="translate(31.000000, 7.000000)" fill="#5596E6">
+                <rect id="Rectangle-path" fill-rule="nonzero" x="0.5232141" y="4" width="8.57142857" height="50"></rect>
+                <circle id="Oval" cx="5" cy="2" r="2"></circle>
+            </g>
+            <g id="Group-6" transform="translate(21.000000, 0.000000)" fill="#5596E6">
+                <rect id="Rectangle-path" fill-rule="nonzero" x="0.5232141" y="4" width="8.57142857" height="64"></rect>
+                <circle id="Oval" cx="5" cy="2" r="2"></circle>
+            </g>
+            <g id="Group-6" transform="translate(1.000000, 8.000000)" fill="#5596E6">
+                <rect id="Rectangle-path" fill-rule="nonzero" x="0.5232141" y="4" width="8.57142857" height="37"></rect>
+                <circle id="Oval" cx="5" cy="2" r="2"></circle>
+            </g>
+            <g id="Group-6" transform="translate(11.000000, 0.000000)" fill="#5596E6">
+                <rect id="Rectangle-path" fill-rule="nonzero" x="0.5232141" y="4" width="8.57142857" height="53"></rect>
+                <circle id="Oval" cx="5" cy="2" r="2"></circle>
+            </g>
+            <g id="Group-7" transform="translate(71.000000, 63.000000)" fill="#5596E6">
+                <rect id="Rectangle-path" fill-rule="nonzero" x="0.7324998" y="4" width="8.57142857" height="10"></rect>
+                <circle id="Oval" cx="5" cy="2" r="2"></circle>
+            </g>
+            <g id="Group-8" transform="translate(61.000000, 58.000000)" fill="#5596E6">
+                <rect id="Rectangle-path" fill-rule="nonzero" x="0.627857" y="4" width="8.57142857" height="18"></rect>
+                <circle id="Oval" cx="5" cy="2" r="2"></circle>
+            </g>
+            <path d="M0.468611365,14.3268854 C6.57137265,13.805821 7.32160921,1.43703516 22.0544197,1.28066284 C49.1914406,0.992633676 50.961325,65.2480754 80.5022513,65.5" id="Line" stroke="#5596E6" stroke-width="2" opacity="0.500892857" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

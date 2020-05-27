@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>radial-bar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="radial-bar" transform="translate(1.000000, 1.000000)">
+            <g id="Layer_4" opacity="0.5" stroke="#5596E6" stroke-width="2">
+                <circle id="Oval" cx="40" cy="40" r="39.1812766"></circle>
+                <circle id="Oval" cx="40" cy="40" r="27.2689362"></circle>
+            </g>
+            <g id="Layer_2" transform="translate(2.553191, 0.851064)" stroke="#5596E6" stroke-width="5.5">
+                <path d="M37.4468085,39.1489362 L37.4468085,0" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L37.4468085,74.0425532" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L0,39.1489362" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L61.9148936,39.1489362" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L63.0851064,13.5106383" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L62.7659574,64.787234" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L13.2978723,15" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L11.2059574,65.3897872" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L49.6808511,9.14893617" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L68.5106383,26.3302128" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L63.1914894,49.893617" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L49.6808511,70.212766" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L29.5625532,58.4417021" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L11.2059574,49.5744681" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L13.0851064,29.1489362" id="Shape"></path>
+                <path d="M37.4468085,39.1489362 L25.5319149,9.78723404" id="Shape"></path>
+            </g>
+            <g id="Layer_3" transform="translate(27.234043, 27.234043)" fill="#FFFFFF" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="2">
+                <circle id="Oval" cx="12.7659574" cy="12.7659574" r="12.0970213"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="81px" viewBox="0 0 80 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>bar-chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bar-chart" transform="translate(0.000000, 1.000000)">
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="0" y="25" width="8.57142857" height="54.0675857"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="10.1046428" y="52.4137926" width="8.57142857" height="26.6537931"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="20.2092857" y="38.6206892" width="8.57142857" height="40.4468966"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="70.7324998" y="31.724138" width="8.57142857" height="47.3475875"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="50.5232141" y="46" width="9.4767859" height="33.0675879"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="60.627857" y="39" width="9.372143" height="40.0675879"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="30.3139285" y="10" width="9.6860715" height="69.0717231"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" x="40.4185713" y="0" width="9.5814287" height="79.0717231"></rect>
+            <path d="M9.5,0 L9.5,78.5" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M19.5,0 L19.5,78.5" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M29.5,0 L29.5,78.5" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M40.5,0 L40.5,78.5" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M50.5,0 L50.5,78.5" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M60.5,0 L60.5,78.5" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M70.5,0 L70.5,78.5" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

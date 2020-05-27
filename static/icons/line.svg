@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="line" transform="translate(1.000000, 0.000000)">
+            <g id="Group" transform="translate(1.000000, 0.000000)">
+                <polyline id="Combined-Shape" stroke="#5596E6" stroke-width="2" points="0 80 8.52485647 50.8319913 16.8863925 66.9661933 22.5088237 26.2116535 32.2795456 33.6107987 38.3148242 4.99413985 47.7536167 45.3725809 56.8780948 12.8465601 63.9719141 25.6741366 73 2"></polyline>
+                <polygon id="Triangle" fill="#5596E6" fill-rule="nonzero" transform="translate(71.293629, 3.748149) rotate(-95.000000) translate(-71.293629, -3.748149) " points="71.2936292 0.748148672 74.7936292 6.74814867 67.7936292 6.74814867"></polygon>
+            </g>
+            <polyline id="Rectangle" stroke="#5596E6" points="80 80 0 80 0 0"></polyline>
+        </g>
+    </g>
+</svg>

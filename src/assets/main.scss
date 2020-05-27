@@ -1,0 +1,197 @@
+body {
+  margin: 0;
+  font-weight: 300;
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    letter-spacing: 0;
+}
+
+h3 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  padding-top: 1.3rem;
+}
+
+.container {
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 1.2rem;
+}
+
+.addpad {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+
+.bx--structured-list-row .solo {
+    width: 100%;
+    float: left;
+}
+
+.container {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.container.gridhead {
+    border-bottom: 2px solid #3d70b2;
+    cursor: inherit;
+}
+
+.bx--label {
+    display: inline;
+}
+
+.gridhead .bx--row.gridrow {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    height: 2.5rem;
+    text-align: left;
+    text-transform: none;
+    vertical-align: middle;
+    flex-wrap: unset;
+}
+
+.gridbody .bx--row.gridrow {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 1em;
+    padding-bottom: 0;
+    font-size: 0.875rem;
+    height: auto;
+    text-align: left;
+    text-transform: none;
+    vertical-align: middle;
+    flex-wrap: unset;
+    border-top: 1px solid #AAA;
+}
+
+.gridbody .bx--row.gridrow.gridshow {
+    margin-top: 0rem;
+    margin-bottom: 2rem;
+    border-top: 0;
+}
+
+.adjustforbtn {
+  padding-top: .75rem;
+}
+
+
+.page-header {
+    height: 12.25rem;
+    background-color: #f5f7fa;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    border-bottom: 1px solid #3057D5;
+}
+
+.page-header__title {
+    font-size: 3.375rem;
+    color: #152935;
+    font-weight: 300;
+    margin: -1.15rem 0 0 -3px;
+    line-height: 1.25;
+    letter-spacing: 0;
+    padding: 0;
+    transition: 250ms cubic-bezier(0.5, 0, 0.1, 1);
+}
+
+.page-header__label {
+    font-size: 1.25rem;
+    color: #5a6872;
+    font-weight: 400;
+    margin: 4rem 0 1rem;
+    white-space: nowrap;
+    text-transform: capitalize;
+}
+
+.bx--tabs__nav-item--selected {
+    border-bottom: 4px solid #3d70b2;
+}
+
+.bx--toast-notification.wider {
+  width: 100%;
+}
+
+.bx--toast-notification__subtitle {
+    font-size: 0.825rem;
+    margin-top: .25rem;
+}
+
+@media (min-width: 840px) {
+  .page-header__title {
+      font-size: 4.125rem;
+  }
+  .container {
+      padding-left: 12.5%;
+      padding-right: 12.5%;
+  }
+}
+
+@media (min-width: 768px) {
+  .page-header {
+      padding-bottom: 0;
+  }
+}
+
+@media (min-width: 500px) {
+  .page-header__label {
+      margin-bottom: 1rem;
+      margin-top: 3rem;
+  }
+  .page-header__title {
+      font-size: 3.25rem;
+  }
+}
+
+@media (max-width: 499px) {
+  .page-header__label {
+      margin-bottom: 1rem;
+      margin-top: 2rem;
+  }
+  .page-header__title {
+      font-size: 2.25rem;
+  }
+}
+
+.bx--card__card-overview {
+    height: 10rem;
+}
+
+.bx--card-footer-left,
+.bx--card-footer-right  {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.bx--card-footer-right  {
+    text-align: right;
+}
+
+@media (min-width: 576px){[class*='bx--col']{padding:0}}
+
+@media (min-width: 768px) {
+.bx--col-md-2 {
+    width: 16.66667%;
+  }
+}

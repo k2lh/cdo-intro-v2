@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>donut</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="donut">
+            <path d="M0.27936508,40.2857652 C0.288255746,18.4623106 17.9629018,0.78700159 39.7855379,0.779098478 C61.6091619,0.78700159 79.2818322,18.4623106 79.2917107,40.2857652 C79.2818322,62.1102078 61.6091619,79.7845289 39.7855379,79.7914441 C17.9629018,79.7845289 0.288255746,62.10922 0.27936508,40.2857652 Z M20.3930175,40.2857652 C20.4127745,50.9944814 29.0772234,59.6592553 39.78455,59.6780253 C50.4918767,59.6592553 59.1573135,50.9944814 59.1750948,40.2857652 C59.1573135,29.578037 50.4918767,20.9122752 39.78455,20.8935053 C29.0772234,20.9112873 20.4127745,29.5770491 20.3930175,40.2857652 Z" id="Shape" fill="#5596E6" fill-rule="nonzero"></path>
+            <path d="M40.4938272,0 L40.4938272,39.5061728" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+            <path d="M39.5061728,40.4938272 L64.1975309,8.88888889" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+            <path d="M39.5061728,40.4938272 L79.0123457,47.4074074" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+            <path d="M40.4938272,39.5061728 L23.7037037,77.037037" id="Shape" stroke="#FFFFFF" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

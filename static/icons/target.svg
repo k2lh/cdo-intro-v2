@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>radial-bar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="radial-bar" transform="translate(1.000000, 1.000000)" stroke="#5596E6" stroke-width="2">
+            <g id="Layer_4" fill="#5596E6">
+                <circle id="Oval" fill-opacity="0.3" cx="40" cy="40" r="39.1812766"></circle>
+                <circle id="Oval" fill-opacity="0.6" cx="40" cy="40" r="27.2689362"></circle>
+            </g>
+            <g id="Layer_3" transform="translate(27.234043, 27.234043)" fill="#FFFFFF" fill-rule="nonzero">
+                <circle id="Oval" cx="12.7659574" cy="12.7659574" r="12.0970213"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

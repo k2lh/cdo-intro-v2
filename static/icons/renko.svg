@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="line" transform="translate(1.000000, 0.000000)">
+            <polyline id="Rectangle" stroke="#5596E6" points="80 80 0 80 0 0"></polyline>
+            <rect id="Rectangle-2" fill="#5596E6" x="2" y="65" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" x="6" y="52" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" x="10" y="39" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" x="14" y="26" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" x="26" y="39" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" x="30" y="26" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" x="34" y="13" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" x="38" y="0" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" opacity="0.499051339" x="18" y="39" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" opacity="0.499051339" x="22" y="52" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" opacity="0.499051339" x="42" y="13" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" opacity="0.499051339" x="46" y="26" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" opacity="0.499051339" x="50" y="39" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" x="58" y="13" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" opacity="0.499051339" x="62" y="26" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" opacity="0.499051339" x="66" y="39" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" opacity="0.499051339" x="70" y="52" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" opacity="0.499051339" x="74" y="65" width="4" height="13"></rect>
+            <rect id="Rectangle-2" fill="#5596E6" x="54" y="26" width="4" height="13"></rect>
+        </g>
+    </g>
+</svg>

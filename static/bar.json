@@ -1,0 +1,11 @@
+[
+      { "label": "Total", "amount": 21562, "color": "#5392ff"},
+      { "label": "Target", "amount": 25632, "color": "#648fff"},
+      { "label": "US", "amount": 44467, "color": "#009bef"},
+      { "label": "EU", "amount": 17567, "color": "#00a78f" },
+      { "label": "At Risk", "amount": 28056, "color": "#00aa5e" },
+      { "label": "Current", "amount": 9985, "color": "#fc835c" },
+      { "label": "Future", "amount": 7721, "color": "#f87eac" },
+      { "label": "In Place", "amount": 31468, "color": "#dc267f" },
+      { "label": "Completed", "amount": 6065, "color": "#cb71d7" }
+]

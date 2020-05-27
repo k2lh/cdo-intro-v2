@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="83px" viewBox="0 0 80 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>pyramid</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pyramid">
+            <polygon id="Triangle-2" fill="#5596E6" fill-rule="nonzero" points="43.944864 2.01167073 80 82 0 82 36.0477965 2.1059064"></polygon>
+            <path d="M6.38451535,16.4444444 L77.7854254,16.4444444" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.500334821" x="40" y="0" width="40" height="82"></rect>
+            <path d="M5.86458324,33.5925926 L77.381948,33.5925926" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M5.08722058,50.7407407 L76.6045853,50.7407407" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M4.32231515,67.8888889 L75.7232252,67.8888889" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M40,81.3343445 L40,2" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

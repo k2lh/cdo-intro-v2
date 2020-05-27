@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="80px" viewBox="0 0 81 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>parallel-sets</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="parallel-sets" transform="translate(41.000000, 40.000000) rotate(-90.000000) translate(-41.000000, -40.000000) translate(1.000000, 0.000000)">
+            <path d="M0.269411765,0.952 L79.7305882,0.952" id="Shape" stroke="#5596E6" stroke-width="3"></path>
+            <path d="M0.269411765,39.5531429 L79.7305882,39.5531429" id="Shape" stroke="#5596E6" stroke-width="3"></path>
+            <path d="M0.269411765,78.1554286 L79.7305882,78.1554286" id="Shape" stroke="#5596E6" stroke-width="3"></path>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" opacity="0.742466518" x="0.269411765" y="0.952" width="16.0282353" height="38.6011429"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" opacity="0.300892857" x="58.5988235" y="1.30628571" width="21.1329412" height="38.6011429"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" opacity="0.300892857" x="74.0929412" y="40.0845714" width="5.63882353" height="38.6034286"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" opacity="0.742466518" x="0.269411765" y="40.6171429" width="10.9247059" height="38.6011429"></rect>
+            <polygon id="Shape" fill="#5596E6" fill-rule="nonzero" opacity="0.495758929" points="29.903184 1 16.4705882 38.1608366 44.0621827 40 58.2223529 2.10421042"></polygon>
+            <polygon id="Shape" fill="#5596E6" fill-rule="nonzero" opacity="0.495758929" points="16.6635294 40.7527637 11.1941176 77.622404 21.4011765 78 27.2352941 40"></polygon>
+            <polygon id="Shape" fill="#5596E6" fill-rule="nonzero" opacity="0.495758929" points="53.4823529 77.4283681 43.2741176 40.7270605 27.2352941 40 36.7129412 78.1554286"></polygon>
+            <polygon id="Shape" fill="#5596E6" fill-rule="nonzero" opacity="0.300892857" points="58.4047059 40.1866293 52.9364706 77.1767983 61.5023529 77.3658513 66.6058824 40"></polygon>
+            <polygon id="Shape" fill="#5596E6" fill-rule="nonzero" opacity="0.300892857" points="66.6058824 40.7547432 65.1482353 77.7327579 70.9811765 77.7327579 74.08 40.2014147"></polygon>
+        </g>
+    </g>
+</svg>

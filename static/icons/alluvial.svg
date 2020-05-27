@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="82px" viewBox="0 0 80 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="line" transform="translate(0.000000, 1.000000)">
+            <path d="M2,11 C22.7939446,12.9638407 37.310845,23.6605041 45.5507011,43.0899903 C51.3792593,56.8336634 62.1956922,64.8036667 78,67" id="Line-2" stroke="#5596E6" stroke-width="2" stroke-linecap="square"></path>
+            <rect id="Rectangle" fill="#FFFFFF" transform="translate(36.988346, 29.261818) rotate(-26.000000) translate(-36.988346, -29.261818) " x="33.4883463" y="26.3572758" width="7" height="5.80908367"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" transform="translate(43.988346, 38.261818) rotate(-41.000000) translate(-43.988346, -38.261818) " x="40.4883463" y="35.3572758" width="7" height="5.80908367"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" transform="translate(49.988346, 49.261818) rotate(-51.000000) translate(-49.988346, -49.261818) " x="46.4883463" y="46.3572758" width="7" height="5.80908367"></rect>
+            <path d="M2,55 C18.6000855,55.5112638 31.1473981,51.4427971 39.641938,42.7945998 C53.5514771,28.6334513 66.3374978,21.0352514 78,20" id="Line-2" stroke="#5596E6" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M2,32 C20.7153412,35.0434336 34.9343359,32.5784512 44.656984,24.6050528 C54.379632,16.6316545 65.4939707,12.7633035 78,13" id="Line-2" stroke="#5596E6" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M2,72 C2,72 30.0730118,77.4520078 43.5390543,58.0146627 C57.1261475,38.4025891 68.6131294,28.3977015 78,28" id="Line-2" stroke="#5596E6" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M1,0 L1,80" id="Line" stroke="#5596E6" stroke-linecap="square"></path>
+            <path d="M79,0 L79,80" id="Line" stroke="#5596E6" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

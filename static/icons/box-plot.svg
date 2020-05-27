@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>box-plot</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box-plot">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="0" y="0" width="80" height="80"></rect>
+            <path d="M-16.5930228,44.5 L49.3372098,44.5" id="Line" stroke="#5596E6" stroke-width="2" stroke-linecap="square" transform="translate(16.372094, 45.000000) rotate(90.000000) translate(-16.372094, -45.000000) "></path>
+            <path d="M16.3720935,1.13953486 L16.3720935,22.3023256" id="Line-2" stroke="#5596E6" stroke-width="2" stroke-linecap="square" transform="translate(16.872093, 11.720930) rotate(90.000000) translate(-16.872093, -11.720930) "></path>
+            <path d="M16.3720935,68.6976744 L16.3720935,89.8604652" id="Line-2" stroke="#5596E6" stroke-width="2" stroke-linecap="square" transform="translate(16.872093, 79.279070) rotate(90.000000) translate(-16.872093, -79.279070) "></path>
+            <rect id="Rectangle" stroke="#5596E6" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" transform="translate(17.279070, 45.000000) rotate(90.000000) translate(-17.279070, -45.000000) " x="1.0000005" y="28.7209302" width="32.5581395" height="32.5581395"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" opacity="0.5046875" transform="translate(17.279070, 53.139535) rotate(90.000000) translate(-17.279070, -53.139535) " x="9.13953535" y="36.8604652" width="16.2790698" height="32.5581395"></rect>
+            <path d="M28.4069772,34.5 L94.3372098,34.5" id="Line" stroke="#5596E6" stroke-width="2" stroke-linecap="square" transform="translate(61.372094, 35.000000) rotate(90.000000) translate(-61.372094, -35.000000) "></path>
+            <path d="M61.3720935,-8.86046514 L61.3720935,12.3023256" id="Line-2" stroke="#5596E6" stroke-width="2" stroke-linecap="square" transform="translate(61.872093, 1.720930) rotate(90.000000) translate(-61.872093, -1.720930) "></path>
+            <path d="M61.3720935,58.6976744 L61.3720935,79.8604652" id="Line-2" stroke="#5596E6" stroke-width="2" stroke-linecap="square" transform="translate(61.872093, 69.279070) rotate(90.000000) translate(-61.872093, -69.279070) "></path>
+            <rect id="Rectangle" stroke="#5596E6" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" transform="translate(62.279070, 35.000000) rotate(90.000000) translate(-62.279070, -35.000000) " x="46.0000005" y="18.7209302" width="32.5581395" height="32.5581395"></rect>
+            <rect id="Rectangle-path" fill="#5596E6" fill-rule="nonzero" opacity="0.5046875" transform="translate(62.279070, 43.139535) rotate(90.000000) translate(-62.279070, -43.139535) " x="54.1395354" y="26.8604651" width="16.2790698" height="32.5581395"></rect>
+        </g>
+    </g>
+</svg>

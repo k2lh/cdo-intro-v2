@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="79px" viewBox="0 0 80 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>adjacency</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="adjacency" fill="#5596E6" fill-rule="nonzero">
+            <rect id="Rectangle" opacity="0.498325893" x="0" y="0" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.498325893" x="20.5095338" y="0" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.498325893" x="41.0190674" y="0" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.498325893" x="61.5286012" y="0" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.498325893" x="0" y="20.2531646" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.498325893" x="20.5095338" y="20.2531646" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.498325893" x="41.0190674" y="20.2531646" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.498325893" x="61.5286012" y="20.2531646" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.498325893" x="0" y="40.5063291" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.498325893" x="20.5095338" y="40.5063291" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.498325893" x="41.0190674" y="40.5063291" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.498325893" x="61.5286012" y="40.5063291" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" x="0" y="60.7594937" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" x="20.5095338" y="60.7594937" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.502399554" x="41.0190674" y="60.7594937" width="18.2278481" height="18"></rect>
+            <rect id="Rectangle" opacity="0.502399554" x="61.5286012" y="60.7594937" width="18.2278481" height="18"></rect>
+        </g>
+    </g>
+</svg>

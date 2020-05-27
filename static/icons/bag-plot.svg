@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="81px" viewBox="0 0 81 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>radar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="radar" transform="translate(1.000000, 0.000000)">
+            <polyline id="Rectangle" stroke="#5596E6" points="80 80 0 80 0 0"></polyline>
+            <polygon id="Shape" fill="#5596E6" fill-rule="nonzero" opacity="0.497265625" points="6.86658403 45.7512396 23.098 16.917 45.1753653 0.768006263 79.0450483 11.0636091 79.2646464 42.5304671 62.0666754 65.2134003 24.9601383 74.9405989"></polygon>
+            <polygon id="Shape" fill="#5596E6" fill-rule="nonzero" opacity="0.497265625" points="20.0308259 43.6528575 34.9318894 30.6710595 47.6574896 9.45322286 67.1789862 26.0350992 57.9464379 38.9819611 53.6881198 53.5464183 32.3055846 62.0064914"></polygon>
+            <path d="M23.5,17.5 L35.5,30.5" id="Line" stroke="#3D70B2" stroke-linecap="square"></path>
+            <path d="M66.5,25.5 L78.5,11.5" id="Line-2" stroke="#3D70B2" stroke-linecap="square"></path>
+            <path d="M57.5,38.5 L78.5,42.5" id="Line-3" stroke="#3D70B2" stroke-linecap="square"></path>
+            <path d="M47.5,10.5 L45.5,1.5" id="Line-4" stroke="#3D70B2" stroke-linecap="square"></path>
+            <path d="M20.5,43.5 L7.5,45.5" id="Line-5" stroke="#3D70B2" stroke-linecap="square"></path>
+            <path d="M32.5,61.5 L25.5,74.5" id="Line-6" stroke="#3D70B2" stroke-linecap="square"></path>
+            <path d="M53.5,53.5 L61.5,64.5" id="Line-7" stroke="#3D70B2" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

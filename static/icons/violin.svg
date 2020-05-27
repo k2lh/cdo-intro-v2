@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="97px" height="46px" viewBox="0 0 97 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>violin_plot</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="violin_plot">
+            <g id="Group">
+                <path d="M3.127,33.762 C15.2354364,41.508 26.8847697,45.381 38.075,45.381 C54.8603454,45.381 62.596655,39.5683022 78.969,27.164 C81.5419104,25.2146667 86.554577,24.24 94.007,24.24 C94.63,23.607 94.391,22.592 94.467,21.787 C91.414,21.516 82.0116372,20.3647655 77.141,17.116 C63.3228498,7.89915066 55.785825,0.369882731 38.075,0.369882731 C20.364175,0.369882731 3.874,11.958 3.144,12.369 L3.127,33.762 Z" id="Shape" fill="#5596E6" fill-rule="nonzero" opacity="0.5"></path>
+                <path d="M0.185,23.068 L96.901,23.068" id="Shape" stroke="#5596E6"></path>
+                <rect id="Rectangle-path" stroke="#5596E6" fill="#FFFFFF" fill-rule="nonzero" x="21.409" y="17.292" width="37.057" height="11.152"></rect>
+                <ellipse id="Oval" fill="#5596E6" fill-rule="nonzero" cx="35.283" cy="22.832" rx="3.425" ry="3.083"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

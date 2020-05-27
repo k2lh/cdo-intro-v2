@@ -1,0 +1,17 @@
+node_modules
+vcap-local.json
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+.gulp
+.npm
+.eslintrc
+.jshintrc
+.DS_Store
+.sass-cache
+_site
+license.*
+*.sh

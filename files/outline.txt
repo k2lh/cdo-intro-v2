@@ -1,0 +1,135 @@
+*Explore: tool for salespeople to demo dashboards
+    1 identify existing data
+    2 identify possible dashboard components
+    3 drag-drop interface demo
+
+    examples: 
+    https://hijiangtao.github.io/ss-vis-component/, 
+    https://pertrai1.github.io/angular-nvd3-charts/#/dashboard
+
+Analyze 
+    Users: what people say about existing processes
+        Group workshops
+        Interviews
+        Conceptual models
+    Processes: what people do in existing processes
+        Task analyses
+        Usability studies
+        Ethnography    
+    Competitive Evaluation    
+        
+Clarify
+    Ethics: establish proper privacy/security
+    Governance: establish new rules based on processes
+    Quality: clean up client data
+    Taxonomy: organize client data
+    Analysis: identify gaps in client data
+    
+Implement:
+    Components (and when to use them)
+        Line
+            Simple Line Chart
+            Multi-series Line Chart
+            Slopegraphs
+            Parallel Coordinates
+            Cumulative Line
+        Bar
+            Discrete Bar
+            Floating Vertical Multi-series Bar
+            Stacked/Grouped Vertical Multi-series Bar
+            Stacked/Grouped Horizontal Multi-series Bar
+        Bubbles
+            Scatterplot
+            Bubble Chart
+            Packed Bubble Chart
+        Area
+            Stacked/Expanded Area
+            Streamgraph
+            Bivariate Area Chart    
+            Hexagonal Binning
+        Circular
+            Pie Chart
+            Bilevel pie Chart
+            Aster Plot
+            Donut Gauge
+            Donut Multiples
+            Sunburst Chart
+            Chord Chart
+            Radar Chart
+        Relational
+            Force-directed Graph
+            Correlation Matrix
+            Voronoi Diagram
+            Adjacency Matrix
+            Sankey Diagram
+            Ontology Visualization             
+        Hierarchical    
+            Dendrogram Chart
+            Tree/Heat Map
+            Hierarchical Sankey Diagram    
+        Timelines
+            Condegram Spiral Plot    
+            Gantt/Timeline Bars
+        Other    
+            Pareto Chart    
+            Bullet Chart
+            World/Country/State Map
+            Uniform/Normal Distribution
+            Linear Regression
+            Candlestick Chart
+            Open-high-low-close Chart
+            Kagi Chart
+    Tools
+        PASIR
+        PPM
+        ISPW
+        
+Projects
+	Starburst Activities
+	Client Activities
+	ISPW / Analytics Platform
+    
+Patterns  (some internal, some external?)
+    I want an operational dashboard
+    How do I optimize my staffing/productivity
+    How do I reduce non-labor cost
+    I need best practices for quality improvement
+        incidents
+        change
+        other
+    I need asset management
+    How do I manage changes?
+    What can I automate?
+    I need to optimize applications
+    What skills do I need to staff a new account
+    We don't have data to measure our work
+    I need to predict and avoid outages
+    I need a dashboard
+        SLAs
+        Incident
+        Change
+        KPIs
+        end to end metrics
+        Service Desk Analytics
+        Financials vs. targets. 
+        Cost details
+    What else can I sell? 
+    I want to showcase our capabilities
+    What are the standard / strategic tools
+    Which data visualization do I use?
+
+*Library
+    Videos
+    Articles
+    Tutorials    
+    Personas
+    Design guides
+
+* Community
+    Community home
+
+    Related communities - CAO, ZZZ NA Analytics, etc
+
+    Data advocates
+    Data Science education/skills
+    Events
