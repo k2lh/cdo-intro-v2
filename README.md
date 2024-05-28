@@ -1,12 +1,3 @@
-# service data analytics
+obfuscated (mostly) code for internal marketing site (because no one really knew what we did).
 
-code for UI & SAML API for
-
-- https://saa.stage1.domain.net/ (prod)
-- https://ZZZ-team-grandiose-fern.stage1.domain.net/ (dev)
-
-to update frontend and backend from terminal:
-
-```
-source update.sh
-```
+covers ui & saml auth/auth. high chance attempts to run will just explode. 
